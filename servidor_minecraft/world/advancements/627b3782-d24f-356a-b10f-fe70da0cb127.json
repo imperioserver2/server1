@@ -3218,15 +3218,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
-      "slept_in_bed": "2025-03-03 19:01:01 +0000"
-    },
-    "done": true
-  },
-  "tetra:upgrades/workbench": {
-    "criteria": {
-      "hammer": "2025-03-03 19:03:50 +0000"
+      "has_diamond_chestplate": "2025-03-03 18:55:16 +0000"
     },
     "done": true
   },
@@ -3236,25 +3230,19 @@
     },
     "done": true
   },
-  "tetra:upgrades/sword_upgrade": {
-    "criteria": {
-      "module": "2025-03-03 19:05:06 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-03-03 18:55:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
-    "criteria": {
-      "has_vanilla_chest": "2025-03-03 19:01:34 +0000"
-    },
-    "done": true
-  },
   "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2025-03-03 18:58:33 +0000"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2025-03-03 18:58:33 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
     "criteria": {
       "hammer": "2025-03-03 18:58:33 +0000"
     },
@@ -3266,9 +3254,21 @@
     },
     "done": true
   },
-  "tetra:story/more_upgrades": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "hammer": "2025-03-03 18:58:33 +0000"
+      "slept_in_bed": "2025-03-03 19:01:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-03-03 19:01:34 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/workbench": {
+    "criteria": {
+      "hammer": "2025-03-03 19:03:50 +0000"
     },
     "done": true
   },
@@ -3278,9 +3278,141 @@
     },
     "done": true
   },
-  "tetra:upgrades/repairs": {
+  "tetra:upgrades/sword_upgrade": {
     "criteria": {
-      "hammer": "2025-03-03 18:58:33 +0000"
+      "module": "2025-03-03 19:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2025-03-03 19:13:45 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/tool_upgrade": {
+    "criteria": {
+      "axe": "2025-03-03 19:14:06 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/bow_upgrade": {
+    "criteria": {
+      "module": "2025-03-03 19:17:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-03-03 19:20:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-03 19:20:07 +0000"
     },
     "done": true
   },
