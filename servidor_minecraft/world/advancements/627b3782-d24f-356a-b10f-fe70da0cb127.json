@@ -2517,6 +2517,7 @@
       "cooked_beef": "2025-03-03 22:53:44 +0000",
       "bread": "2025-03-03 18:38:58 +0000",
       "cookie": "2025-03-03 20:07:49 +0000",
+      "rotten_flesh": "2025-03-03 23:29:20 +0000",
       "glow_berries": "2025-03-03 20:08:25 +0000",
       "mushroom_stew": "2025-03-03 18:26:40 +0000"
     },
@@ -4095,6 +4096,24 @@
     },
     "done": true
   },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2025-03-03 22:47:05 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-03-03 22:47:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/enchanted_berry_enchanting": {
+    "criteria": {
+      "has_blue_berry": "2025-03-03 22:49:37 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/zanite_pickaxe": {
     "criteria": {
       "has_zanite": "2025-03-03 22:59:45 +0000"
@@ -4116,12 +4135,6 @@
   "aether:recipes/combat/zanite_leggings": {
     "criteria": {
       "has_zanite": "2025-03-03 22:59:45 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/zanite_sword_repairing": {
-    "criteria": {
-      "has_zanite_sword": "2025-03-03 23:03:41 +0000"
     },
     "done": true
   },
@@ -4161,12 +4174,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/poison_dart_shooter": {
-    "criteria": {
-      "has_aechor_petal": "2025-03-03 22:47:05 +0000"
-    },
-    "done": true
-  },
   "aether:zanite": {
     "criteria": {
       "zanite": "2025-03-03 22:59:45 +0000"
@@ -4182,12 +4189,6 @@
   "aether:recipes/combat/wood_zanite_vanilla_shield": {
     "criteria": {
       "has_zanite_gemstone": "2025-03-03 22:59:45 +0000"
-    },
-    "done": true
-  },
-  "aether:obtain_petal": {
-    "criteria": {
-      "aechor_petal": "2025-03-03 22:47:05 +0000"
     },
     "done": true
   },
@@ -4221,13 +4222,19 @@
     },
     "done": true
   },
-  "aether:recipes/food/enchanted_berry_enchanting": {
+  "aether:recipes/combat/zanite_sword_repairing": {
     "criteria": {
-      "has_blue_berry": "2025-03-03 22:49:37 +0000"
+      "has_zanite_sword": "2025-03-03 23:03:41 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-03 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-03-03 23:04:44 +0000"
     },
@@ -4239,9 +4246,45 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
     "criteria": {
-      "has_backpack": "2025-03-03 23:04:44 +0000"
+      "has_golden_pendant": "2025-03-03 23:24:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/enchanted_dart_enchanting": {
+    "criteria": {
+      "has_golden_dart": "2025-03-03 23:23:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/blue_moa_incubation": {
+    "criteria": {
+      "has_blue_moa_egg": "2025-03-03 23:23:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_pendant_from_freezing": {
+    "criteria": {
+      "has_pendant": "2025-03-03 23:24:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-03-03 23:24:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart": {
+    "criteria": {
+      "has_golden_dart": "2025-03-03 23:23:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pendant": "2025-03-03 23:24:33 +0000"
     },
     "done": true
   },

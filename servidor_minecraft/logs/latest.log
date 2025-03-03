@@ -1268,3 +1268,14 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [03Mar2025 23:22:10.768] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
 [03Mar2025 23:23:07.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [03Mar2025 23:24:06.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Katze5O5'/165, l='ServerLevel[world]', x=-674.45, y=42.31, z=-336.64] died: Katze5O5 was slain by Axolotl
+[03Mar2025 23:25:33.765] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[03Mar2025 23:25:56.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver moved too quickly! -0.05524751097652825,17.939892578125004,-3.1464372600318598
+[03Mar2025 23:26:02.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['foxytrapx'/166, l='ServerLevel[world]', x=-678.77, y=39.81, z=-349.87] died: foxytrapx was slain by Axolotl
+[03Mar2025 23:26:03.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver fell from a high place
+[03Mar2025 23:27:48.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver fell from a high place
+[03Mar2025 23:28:21.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-722, y=91, z=-343} BlockPos{x=-723, y=91, z=-343}
+[03Mar2025 23:29:31.015] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[03Mar2025 23:29:31.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[03Mar2025 23:29:31.024] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[03Mar2025 23:34:27.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Josh the Angry'/12304, l='ServerLevel[world]', x=-775.58, y=85.00, z=-354.51] died: Josh the Angry was slain by avochvh
+[03Mar2025 23:34:43.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Take Aim]
