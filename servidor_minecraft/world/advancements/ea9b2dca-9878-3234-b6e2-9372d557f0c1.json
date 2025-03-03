@@ -4457,6 +4457,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2025-03-03 22:16:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_planks": "2025-03-03 22:07:15 +0000"
@@ -4487,6 +4493,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-03-03 22:23:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stairs": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-03 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-03-03 22:23:33 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/ice_ring_from_freezing": {
     "criteria": {
       "has_ring": "2025-03-03 21:22:36 +0000"
@@ -4496,6 +4520,12 @@
   "aether:recipes/combat/zanite_sword_repairing": {
     "criteria": {
       "has_zanite_sword": "2025-03-03 21:24:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_slab_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-03 22:31:50 +0000"
     },
     "done": true
   },
@@ -4538,6 +4568,12 @@
   "aether:recipes/building_blocks/pillar_from_pillar_top_stonecutting": {
     "criteria": {
       "has_pillar_top": "2025-03-03 21:27:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_top_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-03 22:31:50 +0000"
     },
     "done": true
   },
@@ -4631,6 +4667,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-03-03 22:23:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_slab": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-03 22:31:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/skyroot_stick": {
     "criteria": {
       "has_planks": "2025-03-03 22:07:15 +0000"
@@ -4640,6 +4688,18 @@
   "aether:recipes/misc/ice_pendant_from_freezing": {
     "criteria": {
       "has_pendant": "2025-03-03 21:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-03 22:16:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-03-03 22:23:34 +0000"
     },
     "done": true
   },
@@ -4661,6 +4721,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/angelic_wall_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-03 22:31:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_pressure_plate": {
     "criteria": {
       "has_skyroot_planks": "2025-03-03 22:07:15 +0000"
@@ -4673,9 +4739,21 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/angelic_wall": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-03 22:31:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
     "criteria": {
       "has_carved_stone": "2025-03-03 21:17:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-03 22:31:50 +0000"
     },
     "done": true
   },
@@ -4721,6 +4799,12 @@
     },
     "done": true
   },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2025-03-03 22:25:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/skyroot_axe": {
     "criteria": {
       "has_planks": "2025-03-03 22:07:15 +0000"
@@ -4742,6 +4826,12 @@
   "aether:recipes/redstone/skyroot_trapdoor": {
     "criteria": {
       "has_skyroot_planks": "2025-03-03 22:07:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/light_angelic_stone_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-03 22:31:50 +0000"
     },
     "done": true
   },
@@ -4784,6 +4874,12 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_blue_wool": "2025-03-03 21:40:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stairs_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-03 22:31:50 +0000"
     },
     "done": true
   },

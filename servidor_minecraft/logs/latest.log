@@ -1345,3 +1345,62 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [03Mar2025 22:05:44.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
 [03Mar2025 22:10:06.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/27378, l='ServerLevel[world]', x=-449.24, y=105.00, z=-441.84] died: SulfurousLocket was slain by foxytrapx
 [03Mar2025 22:13:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SulfurousLocket: Skin changed]
+[03Mar2025 22:18:39.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Valkyrie Queen
+[03Mar2025 22:18:39.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
+[03Mar2025 22:18:46.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Valkyrie Queen
+[03Mar2025 22:18:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Valkyrie Queen
+[03Mar2025 22:19:03.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
+[03Mar2025 22:19:07.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Valkyrie Queen
+[03Mar2025 22:19:15.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was doomed to fall by Valkyrie Queen
+[03Mar2025 22:19:27.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Valkyrie Queen
+[03Mar2025 22:19:47.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was zapped by Valkyrie Queen's Thunder Crystal
+[03Mar2025 22:20:02.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Valkyrie Queen
+[03Mar2025 22:20:15.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was zapped by Valkyrie Queen's Thunder Crystal
+[03Mar2025 22:20:17.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
+[03Mar2025 22:20:22.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Valkyrie Queen
+[03Mar2025 22:20:44.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:49987] logged in with entity id 29645 at (-662.5227714895034, 55.0, -601.3000000119209)
+[03Mar2025 22:20:44.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
+[03Mar2025 22:20:44.209] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LuxSilver
+[03Mar2025 22:20:44.216] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
+[03Mar2025 22:20:51.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Valkyrie Queen
+[03Mar2025 22:20:58.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
+[03Mar2025 22:21:08.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Valkyrie Queen
+[03Mar2025 22:21:13.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
+[03Mar2025 22:21:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
+[03Mar2025 22:21:40.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Valkyrie Queen
+[03Mar2025 22:21:45.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Valkyrie Queen
+[03Mar2025 22:22:13.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Valkyrie Queen
+[03Mar2025 22:22:15.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
+[03Mar2025 22:22:31.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
+[03Mar2025 22:22:38.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Valkyrie Queen
+[03Mar2025 22:22:46.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Valkyrie Queen
+[03Mar2025 22:22:50.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
+[03Mar2025 22:23:00.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Valkyrie Queen
+[03Mar2025 22:23:06.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Valkyrie Queen
+[03Mar2025 22:23:12.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
+[03Mar2025 22:23:33.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has reached the goal [Dethroned]
+[03Mar2025 22:23:33.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has reached the goal [Dethroned]
+[03Mar2025 22:23:33.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has reached the goal [Dethroned]
+[03Mar2025 22:23:41.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
+[03Mar2025 22:25:34.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx fell from a high place
+[03Mar2025 22:25:38.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has reached the goal [Earning your Wings]
+[03Mar2025 22:25:45.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [Battle Hardened]
+[03Mar2025 22:26:26.555] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['foxytrapx'/31018, l='ServerLevel[world]', x=-460.30, y=106.00, z=-423.30] died: foxytrapx was slain by SulfurousLocket
+[03Mar2025 22:26:27.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by SulfurousLocket
+[03Mar2025 22:26:31.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['foxytrapx'/31034, l='ServerLevel[world]', x=-464.41, y=106.00, z=-424.24] died: foxytrapx was slain by SulfurousLocket
+[03Mar2025 22:26:57.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was doomed to fall by avochvh
+[03Mar2025 22:27:14.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was doomed to fall by foxytrapx
+[03Mar2025 22:27:40.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by foxytrapx
+[03Mar2025 22:27:40.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by avochvh
+[03Mar2025 22:27:58.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx fell from a high place
+[03Mar2025 22:28:18.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was doomed to fall by foxytrapx
+[03Mar2025 22:28:31.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has reached the goal [Hammer III (Iron)]
+[03Mar2025 22:29:04.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was shot by SulfurousLocket
+[03Mar2025 22:29:18.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has reached the goal [Worthy Equipment]
+[03Mar2025 22:31:10.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-450, y=117, z=-424} BlockPos{x=-450, y=116, z=-424}
+[03Mar2025 22:34:50.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver hit the ground too hard
+[03Mar2025 22:35:06.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Do You Believe in Magic?]
+[03Mar2025 22:35:30.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [To Infinity and Beyond!]
+[03Mar2025 22:37:23.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of SulfurousLocket) moved too quickly! -0.29754924594067234,-320.27694881890557,-0.028945207374022175
+[03Mar2025 22:37:23.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of SulfurousLocket) moved too quickly! -0.5936657661784466,-320.52694881890557,-0.07018181800287948
+[03Mar2025 22:37:23.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of SulfurousLocket) moved too quickly! -0.8885169829208053,-320.77694881890557,-0.12253794261420126
