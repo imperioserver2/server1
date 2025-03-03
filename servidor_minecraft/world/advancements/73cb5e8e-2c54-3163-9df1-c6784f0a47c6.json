@@ -4536,6 +4536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-03-03 22:49:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/mossy_holystone_slab_from_mossy_holystone_stonecutting": {
     "criteria": {
       "has_mossy_holystone": "2025-03-03 22:40:36 +0000"

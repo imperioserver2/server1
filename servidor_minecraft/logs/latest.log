@@ -1452,3 +1452,33 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [03Mar2025 22:45:45.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver moved too quickly! -10.007338503391566,0.243240711822736,1.348344649226533
 [03Mar2025 22:47:05.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Baby Food]
 [03Mar2025 22:48:22.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was blown up by Creeper
+[03Mar2025 22:49:07.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket was kicked for floating too long!
+[03Mar2025 22:49:07.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket lost connection: Flying is not enabled on this server
+[03Mar2025 22:49:07.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket left the game
+[03Mar2025 22:49:32.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SulfurousLocket[/127.1.0.85:44581] logged in with entity id 41853 at (-545.8423679777795, 175.86775982278198, -447.8860308747835)
+[03Mar2025 22:49:32.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket joined the game
+[03Mar2025 22:49:32.154] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: SulfurousLocket
+[03Mar2025 22:49:32.164] [Server thread/INFO] [Jade/]: Syncing config to SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1)
+[03Mar2025 22:50:26.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was doomed to fall by Skeleton
+[03Mar2025 22:51:25.113] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[03Mar2025 22:51:25.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SulfurousLocket> xaero-waypoint:Ceus:C:-702:94:-414:3:false:0:Internal-dim%aether$the-aether-waypoints
+[03Mar2025 22:51:31.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver hit the ground too hard
+[03Mar2025 22:56:35.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket was kicked for floating too long!
+[03Mar2025 22:56:35.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket lost connection: Flying is not enabled on this server
+[03Mar2025 22:56:35.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket left the game
+[03Mar2025 22:56:58.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SulfurousLocket[/127.1.0.85:52897] logged in with entity id 46116 at (-749.4230527595323, 172.79200176125522, -115.8473685605367)
+[03Mar2025 22:56:58.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket joined the game
+[03Mar2025 22:56:58.360] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: SulfurousLocket
+[03Mar2025 22:56:58.370] [Server thread/INFO] [Jade/]: Syncing config to SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1)
+[03Mar2025 22:58:54.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['foxytrapx'/46636, l='ServerLevel[world]', x=-759.58, y=72.00, z=-317.87] died: foxytrapx was shot by Stray
+[03Mar2025 22:59:45.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Exotic Hardware]
+[03Mar2025 23:04:56.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Sweet Dreams]
+[03Mar2025 23:06:28.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket was kicked for floating too long!
+[03Mar2025 23:06:28.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket lost connection: Flying is not enabled on this server
+[03Mar2025 23:06:28.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket left the game
+[03Mar2025 23:07:03.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SulfurousLocket[/127.1.0.85:43373] logged in with entity id 53332 at (-726.7569320830181, 94.4002930913034, -341.3154125209085)
+[03Mar2025 23:07:03.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket joined the game
+[03Mar2025 23:07:03.241] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: SulfurousLocket
+[03Mar2025 23:07:03.251] [Server thread/INFO] [Jade/]: Syncing config to SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1)
+[03Mar2025 23:07:14.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/51355, l='ServerLevel[world]', x=-734.83, y=90.26, z=-387.46] died: Honeyed Archer suffocated in a wall
+[03Mar2025 23:07:20.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was doomed to fall by foxytrapx
