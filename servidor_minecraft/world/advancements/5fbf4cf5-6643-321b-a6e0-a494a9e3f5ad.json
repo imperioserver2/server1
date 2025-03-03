@@ -4150,6 +4150,12 @@
     },
     "done": true
   },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2025-03-03 21:17:32 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
     "criteria": {
       "has_carved_stone": "2025-03-03 21:12:19 +0000"
@@ -4183,6 +4189,18 @@
   "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
     "criteria": {
       "has_acacia_plank": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/enchanted_dart_enchanting": {
+    "criteria": {
+      "has_golden_dart": "2025-03-03 21:17:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/blue_moa_incubation": {
+    "criteria": {
+      "has_blue_moa_egg": "2025-03-03 21:23:11 +0000"
     },
     "done": true
   },
@@ -4222,6 +4240,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2025-03-03 21:22:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/carved_slab": {
     "criteria": {
       "has_carved_stone": "2025-03-03 21:12:19 +0000"
@@ -4243,6 +4267,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart": {
+    "criteria": {
+      "has_golden_dart": "2025-03-03 21:17:47 +0000"
     },
     "done": true
   },

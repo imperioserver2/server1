@@ -1216,3 +1216,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [03Mar2025 21:10:47.408] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [03Mar2025 21:11:17.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement ['X' Marks the Spot]
 [03Mar2025 21:11:47.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
+[03Mar2025 21:17:32.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has reached the goal [Like a Bossaru!]
+[03Mar2025 21:17:32.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has reached the goal [Like a Bossaru!]
+[03Mar2025 21:17:32.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has reached the goal [Like a Bossaru!]
+[03Mar2025 21:21:28.711] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[03Mar2025 21:21:56.700] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/lost_aether/capability/entity/WingedAnimalCap$WingType
+[03Mar2025 21:23:57.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [Baby Food]
+[03Mar2025 21:24:21.648] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[03Mar2025 21:25:49.224] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType

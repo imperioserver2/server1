@@ -4322,6 +4322,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_sword_repairing": {
+    "criteria": {
+      "has_zanite_sword": "2025-03-03 21:22:50 +0000"
+    },
+    "done": true
+  },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2025-03-03 21:17:32 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_chest": "2025-03-03 21:11:17 +0000"
@@ -4331,6 +4343,18 @@
   "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
     "criteria": {
       "has_carved_stone": "2025-03-03 21:12:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant_repairing": {
+    "criteria": {
+      "has_zanite_pendant": "2025-03-03 21:17:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/enchanted_dart_enchanting": {
+    "criteria": {
+      "has_golden_dart": "2025-03-03 21:22:42 +0000"
     },
     "done": true
   },
@@ -4379,6 +4403,18 @@
   "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
     "criteria": {
       "has_carved_stone": "2025-03-03 21:12:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-03-03 21:23:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart": {
+    "criteria": {
+      "has_golden_dart": "2025-03-03 21:22:42 +0000"
     },
     "done": true
   },
