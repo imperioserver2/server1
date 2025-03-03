@@ -3937,6 +3937,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-03-03 22:23:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_planks": "2025-03-03 22:26:49 +0000"
@@ -3967,22 +3973,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/iron_sword_repairing": {
-    "criteria": {
-      "has_iron_sword": "2025-03-03 22:23:57 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/golden_dart_shooter": {
     "criteria": {
       "has_skyroot_planks": "2025-03-03 22:26:49 +0000"
-    },
-    "done": true
-  },
-  "tetra:upgrades/hammer_3": {
-    "criteria": {
-      "head_left": "2025-03-03 22:28:31 +0000",
-      "head_right": "2025-03-03 22:28:19 +0000"
     },
     "done": true
   },
@@ -4061,6 +4054,43 @@
   "aether:recipes/building_blocks/skyroot_slab": {
     "criteria": {
       "has_skyroot_planks": "2025-03-03 22:26:49 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_3": {
+    "criteria": {
+      "head_left": "2025-03-03 22:28:31 +0000",
+      "head_right": "2025-03-03 22:28:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-03-03 22:34:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-03-03 22:34:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-03-03 22:34:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-03-03 22:34:19 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-03-03 22:35:30 +0000"
     },
     "done": true
   },

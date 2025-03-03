@@ -1404,3 +1404,51 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [03Mar2025 22:37:23.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of SulfurousLocket) moved too quickly! -0.29754924594067234,-320.27694881890557,-0.028945207374022175
 [03Mar2025 22:37:23.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of SulfurousLocket) moved too quickly! -0.5936657661784466,-320.52694881890557,-0.07018181800287948
 [03Mar2025 22:37:23.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of SulfurousLocket) moved too quickly! -0.8885169829208053,-320.77694881890557,-0.12253794261420126
+[03Mar2025 22:38:44.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: avochvh lost connection: Disconnected
+[03Mar2025 22:38:44.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh left the game
+[03Mar2025 22:38:44.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket lost connection: Disconnected
+[03Mar2025 22:38:44.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket left the game
+[03Mar2025 22:38:44.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx lost connection: Disconnected
+[03Mar2025 22:38:44.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx left the game
+[03Mar2025 22:38:44.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[03Mar2025 22:38:44.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[03Mar2025 22:38:44.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37874ms or 757 ticks behind
+[03Mar2025 22:39:00.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: foxytrapx[/127.221.218.87:49561] logged in with entity id 34426 at (-451.79789627182424, 104.0, -479.0585797308665)
+[03Mar2025 22:39:00.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx joined the game
+[03Mar2025 22:39:00.399] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: foxytrapx
+[03Mar2025 22:39:00.407] [Server thread/INFO] [Jade/]: Syncing config to foxytrapx (73cb5e8e-2c54-3163-9df1-c6784f0a47c6)
+[03Mar2025 22:39:05.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: avochvh[/127.108.89.128:39845] logged in with entity id 34581 at (-443.45467630194923, 107.02442408821369, -466.13405821900636)
+[03Mar2025 22:39:05.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh joined the game
+[03Mar2025 22:39:05.409] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: avochvh
+[03Mar2025 22:39:05.416] [Server thread/INFO] [Jade/]: Syncing config to avochvh (5fbf4cf5-6643-321b-a6e0-a494a9e3f5ad)
+[03Mar2025 22:39:50.747] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36e7ffd4[id=<null>,name=SulfurousLocket,properties={},legacy=false] (/127.1.0.85:53769) lost connection: Disconnected
+[03Mar2025 22:40:02.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has made the advancement [Cold as Ice]
+[03Mar2025 22:40:08.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SulfurousLocket[/127.1.0.85:50023] logged in with entity id 34749 at (-751.5, 106.80534064, -394.7454549848191)
+[03Mar2025 22:40:08.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket joined the game
+[03Mar2025 22:40:09.798] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: SulfurousLocket
+[03Mar2025 22:40:09.809] [Server thread/INFO] [Jade/]: Syncing config to SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1)
+[03Mar2025 22:40:10.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:36249] logged in with entity id 35017 at (-737.0968550991347, 89.7531999805212, -543.661472788409)
+[03Mar2025 22:40:10.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
+[03Mar2025 22:40:10.880] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LuxSilver
+[03Mar2025 22:40:10.891] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
+[03Mar2025 22:41:33.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was shot by Skeleton
+[03Mar2025 22:41:37.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-437, y=100, z=-480}
+[03Mar2025 22:41:38.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-436, y=102, z=-478}
+[03Mar2025 22:41:38.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-436, y=102, z=-478}
+[03Mar2025 22:41:38.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-436, y=102, z=-478}
+[03Mar2025 22:41:38.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-436, y=102, z=-478}
+[03Mar2025 22:41:38.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-436, y=102, z=-478}
+[03Mar2025 22:41:38.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-436, y=102, z=-478}
+[03Mar2025 22:41:38.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-436, y=102, z=-478}
+[03Mar2025 22:41:38.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-436, y=102, z=-478}
+[03Mar2025 22:41:38.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-436, y=102, z=-478}
+[03Mar2025 22:41:38.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-436, y=102, z=-478}
+[03Mar2025 22:41:38.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-436, y=102, z=-478}
+[03Mar2025 22:41:38.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=102, z=-477} BlockPos{x=-436, y=102, z=-478}
+[03Mar2025 22:41:42.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-435, y=100, z=-473} BlockPos{x=-435, y=99, z=-475}
+[03Mar2025 22:41:42.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-436, y=100, z=-474} BlockPos{x=-435, y=99, z=-475}
+[03Mar2025 22:44:42.349] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[03Mar2025 22:45:44.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket burned to death
+[03Mar2025 22:45:45.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver moved too quickly! -10.007338503391566,0.243240711822736,1.348344649226533
+[03Mar2025 22:47:05.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Baby Food]
+[03Mar2025 22:48:22.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was blown up by Creeper

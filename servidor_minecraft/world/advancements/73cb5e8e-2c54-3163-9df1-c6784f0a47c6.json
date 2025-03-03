@@ -4446,39 +4446,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/zanite_boots_repairing": {
+  "lootr:10loot": {
     "criteria": {
-      "has_zanite_boots": "2025-03-03 22:30:16 +0000"
-    },
-    "done": true
-  },
-  "aether:silver_dungeon": {
-    "criteria": {
-      "kill_valkyrie_queen": "2025-03-03 22:23:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-03-03 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/angelic_stone_from_light_angelic_stone_stonecutting": {
-    "criteria": {
-      "has_light_angelic_stone": "2025-03-03 22:00:48 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/rare": {
-    "criteria": {
-      "sword": "2025-03-03 22:29:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-03-03 22:17:15 +0000"
+      "loot_stat": "2025-03-03 21:59:54 +0000"
     },
     "done": true
   },
@@ -4488,21 +4458,99 @@
     },
     "done": true
   },
-  "aether:recipes/tools/iron_shovel_repairing": {
+  "aether:recipes/building_blocks/angelic_stone_from_light_angelic_stone_stonecutting": {
     "criteria": {
-      "has_iron_shovel": "2025-03-03 22:29:18 +0000"
+      "has_light_angelic_stone": "2025-03-03 22:00:48 +0000"
     },
     "done": true
   },
-  "lootr:10loot": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "loot_stat": "2025-03-03 21:59:54 +0000"
+      "has_mutton": "2025-03-03 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-03-03 22:17:15 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-03-03 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-03-03 22:23:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-03-03 22:29:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-03-03 22:29:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_boots_repairing": {
+    "criteria": {
+      "has_zanite_boots": "2025-03-03 22:30:16 +0000"
+    },
+    "done": true
+  },
+  "aether:craft_altar": {
+    "criteria": {
+      "craft_altar": "2025-03-03 22:35:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_slab": {
+    "criteria": {
+      "has_mossy_holystone": "2025-03-03 22:40:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_stairs": {
+    "criteria": {
+      "has_mossy_holystone": "2025-03-03 22:40:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/mossy_holystone_wall_from_mossy_holystone_stonecutting": {
+    "criteria": {
+      "has_mossy_holystone": "2025-03-03 22:40:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_stairs_from_mossy_holystone_stonecutting": {
+    "criteria": {
+      "has_mossy_holystone": "2025-03-03 22:40:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_slab_from_mossy_holystone_stonecutting": {
+    "criteria": {
+      "has_mossy_holystone": "2025-03-03 22:40:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_shovel_repairing": {
+    "criteria": {
+      "has_holystone_shovel": "2025-03-03 22:41:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/mossy_holystone_wall": {
+    "criteria": {
+      "has_mossy_holystone": "2025-03-03 22:40:36 +0000"
     },
     "done": true
   },
