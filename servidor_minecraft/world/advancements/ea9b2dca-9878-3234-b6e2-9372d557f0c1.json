@@ -3861,6 +3861,18 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_aercloud_freezing": {
+    "criteria": {
+      "has_cold_aercloud": "2025-03-03 20:21:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-03-03 20:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-03-03 20:11:11 +0000"
@@ -3873,9 +3885,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2025-03-03 20:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-03-03 20:11:11 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-03-03 20:15:00 +0000"
     },
     "done": true
   },
@@ -3888,6 +3912,12 @@
   "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
     "criteria": {
       "has_bone_meal": "2025-03-03 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-03-03 20:20:51 +0000"
     },
     "done": true
   },
@@ -3915,6 +3945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-03 20:13:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-03-03 20:13:03 +0000"
@@ -3930,6 +3966,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-03 20:11:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-03-03 20:20:51 +0000"
     },
     "done": true
   },
@@ -3957,6 +3999,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-03-03 20:20:51 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/acacia_chest": {
     "criteria": {
       "has_acacia_plank": "2025-03-03 20:11:11 +0000"
@@ -3966,6 +4014,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-03 20:11:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
+    "criteria": {
+      "has_cold_aercloud": "2025-03-03 20:21:04 +0000"
     },
     "done": true
   },
@@ -3981,6 +4035,18 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-03-03 20:15:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/enchanted_berry_enchanting": {
+    "criteria": {
+      "has_blue_berry": "2025-03-03 20:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-03-03 20:11:11 +0000"
@@ -3990,6 +4056,12 @@
   "brewinandchewin:recipes/fermenting/vodka_from_water": {
     "criteria": {
       "has_potato": "2025-03-03 20:06:37 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-03-03 20:20:53 +0000"
     },
     "done": true
   },

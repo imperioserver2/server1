@@ -1320,3 +1320,22 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [03Mar2025 20:15:40.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Hostile Paradise]
 [03Mar2025 20:15:44.334] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-506, y=82, z=-361}
 [03Mar2025 20:17:25.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Bloodthirsty]
+[03Mar2025 20:17:41.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Baby Food]
+[03Mar2025 20:20:10.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katze5O5 moved too quickly! -7.843146513342049,-0.36035801484161567,-6.287034578161808
+[03Mar2025 20:20:10.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver moved too quickly! 7.1190286159696825,0.0,-7.164862442162132
+[03Mar2025 20:20:10.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18798ms or 375 ticks behind
+[03Mar2025 20:20:10.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved too quickly! 3.49853383491984,2.1312424219684374,-9.251530889029198
+[03Mar2025 20:20:10.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! 9.994144786346055,1.5903276366434795,1.153377661401862
+[03Mar2025 20:20:53.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [To Infinity and Beyond!]
+[03Mar2025 20:21:00.893] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[03Mar2025 20:21:23.507] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-744, y=65, z=-552}
+[03Mar2025 20:21:23.507] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-744, y=66, z=-552}
+[03Mar2025 20:22:53.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [To Infinity and Beyond!]
+[03Mar2025 20:22:56.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Don't Count Your Moas...]
+[03Mar2025 20:23:49.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has made the advancement [To Infinity and Beyond!]
+[03Mar2025 20:24:09.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has made the advancement [Don't Count Your Moas...]
+[03Mar2025 20:24:17.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Don't Count Your Moas...]
+[03Mar2025 20:24:52.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [Exotic Hardware]
+[03Mar2025 20:24:54.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [To Infinity and Beyond!]
+[03Mar2025 20:25:47.809] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[03Mar2025 20:25:47.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SulfurousLocket> xaero-waypoint:Ceus:C:-702:94:-414:3:false:0:Internal-dim%aether$the-aether-waypoints
