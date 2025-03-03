@@ -4602,15 +4602,63 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-03-03 22:39:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-03-03 22:39:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-03-03 22:39:17 +0000"
+    },
+    "done": true
+  },
   "aether:icestone": {
     "criteria": {
       "icestone": "2025-03-03 22:40:02 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/mossy_holystone_slab": {
+  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
     "criteria": {
-      "has_mossy_holystone": "2025-03-03 22:40:50 +0000"
+      "has_icestone": "2025-03-03 22:40:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab": {
+    "criteria": {
+      "has_icestone": "2025-03-03 22:40:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-03 22:40:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-03 22:40:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/icestone_wall": {
+    "criteria": {
+      "has_icestone": "2025-03-03 22:40:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs": {
+    "criteria": {
+      "has_icestone": "2025-03-03 22:40:02 +0000"
     },
     "done": true
   },
@@ -4638,12 +4686,6 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
-    "criteria": {
-      "has_icestone": "2025-03-03 22:40:02 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/holystone_stonecutter": {
     "criteria": {
       "has_holystone": "2025-03-03 22:40:03 +0000"
@@ -4662,27 +4704,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/icestone_slab": {
-    "criteria": {
-      "has_icestone": "2025-03-03 22:40:02 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-03-03 22:40:03 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
-    "criteria": {
-      "has_icestone": "2025-03-03 22:40:02 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
-    "criteria": {
-      "has_icestone": "2025-03-03 22:40:02 +0000"
     },
     "done": true
   },
@@ -4698,12 +4722,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-03-03 22:39:17 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/holystone_stairs": {
     "criteria": {
       "has_holystone": "2025-03-03 22:40:03 +0000"
@@ -4716,27 +4734,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/mossy_holystone_stairs": {
-    "criteria": {
-      "has_mossy_holystone": "2025-03-03 22:40:50 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-03-03 22:40:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-03-03 22:39:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/mossy_holystone_wall_from_mossy_holystone_stonecutting": {
-    "criteria": {
-      "has_mossy_holystone": "2025-03-03 22:40:50 +0000"
     },
     "done": true
   },
@@ -4749,18 +4749,6 @@
   "aether:recipes/building_blocks/holystone_bricks": {
     "criteria": {
       "has_holystone": "2025-03-03 22:40:03 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/mossy_holystone_stairs_from_mossy_holystone_stonecutting": {
-    "criteria": {
-      "has_mossy_holystone": "2025-03-03 22:40:50 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/mossy_holystone_slab_from_mossy_holystone_stonecutting": {
-    "criteria": {
-      "has_mossy_holystone": "2025-03-03 22:40:50 +0000"
     },
     "done": true
   },
@@ -4782,12 +4770,6 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/icestone_wall": {
-    "criteria": {
-      "has_icestone": "2025-03-03 22:40:02 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-03-03 22:40:03 +0000"
@@ -4800,12 +4782,6 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/icestone_stairs": {
-    "criteria": {
-      "has_icestone": "2025-03-03 22:40:02 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/tools/holystone_shovel": {
     "criteria": {
       "has_holystone": "2025-03-03 22:40:03 +0000"
@@ -4815,18 +4791,6 @@
   "aether:recipes/building_blocks/mossy_holystone_with_vine": {
     "criteria": {
       "has_holystone": "2025-03-03 22:40:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-03-03 22:39:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/mossy_holystone_wall": {
-    "criteria": {
-      "has_mossy_holystone": "2025-03-03 22:40:50 +0000"
     },
     "done": true
   },
@@ -4845,6 +4809,66 @@
   "aether:recipes/redstone/holystone_button": {
     "criteria": {
       "has_holystone": "2025-03-03 22:40:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_slab": {
+    "criteria": {
+      "has_mossy_holystone": "2025-03-03 22:40:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_stairs": {
+    "criteria": {
+      "has_mossy_holystone": "2025-03-03 22:40:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/mossy_holystone_wall_from_mossy_holystone_stonecutting": {
+    "criteria": {
+      "has_mossy_holystone": "2025-03-03 22:40:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_stairs_from_mossy_holystone_stonecutting": {
+    "criteria": {
+      "has_mossy_holystone": "2025-03-03 22:40:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_slab_from_mossy_holystone_stonecutting": {
+    "criteria": {
+      "has_mossy_holystone": "2025-03-03 22:40:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/mossy_holystone_wall": {
+    "criteria": {
+      "has_mossy_holystone": "2025-03-03 22:40:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-03-03 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-03-03 23:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-03 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-03 23:17:33 +0000"
     },
     "done": true
   },
