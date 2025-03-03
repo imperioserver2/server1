@@ -1343,3 +1343,5 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [03Mar2025 22:05:33.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Valkyrie Queen
 [03Mar2025 22:05:37.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Valkyrie Queen
 [03Mar2025 22:05:44.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
+[03Mar2025 22:10:06.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/27378, l='ServerLevel[world]', x=-449.24, y=105.00, z=-441.84] died: SulfurousLocket was slain by foxytrapx
+[03Mar2025 22:13:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SulfurousLocket: Skin changed]

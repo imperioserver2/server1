@@ -12762,3 +12762,9 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [03Mar2025 22:05:38.586] [Server thread/DEBUG] [twilightforest/]: Player avochvh (5fbf4cf5-6643-321b-a6e0-a494a9e3f5ad) respawned and received items held in storage
 [03Mar2025 22:05:44.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Valkyrie Queen
 [03Mar2025 22:05:46.158] [Server thread/DEBUG] [twilightforest/]: Player foxytrapx (73cb5e8e-2c54-3163-9df1-c6784f0a47c6) respawned and received items held in storage
+[03Mar2025 22:08:16.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 22:08:16.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 22:10:06.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/27378, l='ServerLevel[world]', x=-449.24, y=105.00, z=-441.84] died: SulfurousLocket was slain by foxytrapx
+[03Mar2025 22:13:16.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 22:13:16.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 22:13:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SulfurousLocket: Skin changed]
