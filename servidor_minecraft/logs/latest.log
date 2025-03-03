@@ -1235,3 +1235,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [03Mar2025 21:36:40.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Valkyrie Queen
 [03Mar2025 21:36:51.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was struck by lightning
 [03Mar2025 21:36:54.121] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[03Mar2025 21:37:40.697] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[03Mar2025 21:38:19.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was shot by Skeleton
+[03Mar2025 21:38:36.909] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[03Mar2025 21:38:36.910] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[03Mar2025 21:38:36.915] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[03Mar2025 21:39:52.167] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[03Mar2025 21:39:52.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[03Mar2025 21:43:48.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved too quickly! 0.759449513184677,-10.806526110009145,-1.7648533633389434
+[03Mar2025 21:43:48.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[03Mar2025 21:43:50.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved too quickly! -0.5134218571057545,-11.026982712340214,0.0
+[03Mar2025 21:43:51.648] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[03Mar2025 21:43:52.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx was kicked for floating too long!
+[03Mar2025 21:43:52.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx lost connection: Flying is not enabled on this server
+[03Mar2025 21:43:52.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx left the game
+[03Mar2025 21:43:52.572] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Mar2025 21:43:53.518] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[03Mar2025 21:44:34.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: foxytrapx[/127.221.218.87:58493] logged in with entity id 16990 at (-671.1646064342532, 252.21120900879154, -679.6499087871723)
+[03Mar2025 21:44:34.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx joined the game
+[03Mar2025 21:44:34.834] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: foxytrapx
+[03Mar2025 21:44:34.845] [Server thread/INFO] [Jade/]: Syncing config to foxytrapx (73cb5e8e-2c54-3163-9df1-c6784f0a47c6)
+[03Mar2025 21:44:44.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx was kicked for floating too long!
+[03Mar2025 21:44:44.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx lost connection: Flying is not enabled on this server
+[03Mar2025 21:44:44.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx left the game
+[03Mar2025 21:44:59.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: foxytrapx[/127.221.218.87:49681] logged in with entity id 17228 at (-672.168820354775, 120.20615394878304, -678.6610968905939)
+[03Mar2025 21:44:59.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx joined the game
+[03Mar2025 21:44:59.726] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: foxytrapx
+[03Mar2025 21:44:59.740] [Server thread/INFO] [Jade/]: Syncing config to foxytrapx (73cb5e8e-2c54-3163-9df1-c6784f0a47c6)
+[03Mar2025 21:45:14.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx fell from a high place
+[03Mar2025 21:45:15.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Valkyrie Queen
+[03Mar2025 21:45:26.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Valkyrie Queen

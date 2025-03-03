@@ -4487,6 +4487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-03-03 21:40:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/pillar_from_pillar_top_stonecutting": {
     "criteria": {
       "has_pillar_top": "2025-03-03 21:27:30 +0000"
@@ -4496,6 +4502,12 @@
   "aether:recipes/combat/zanite_pendant_repairing": {
     "criteria": {
       "has_zanite_pendant": "2025-03-03 21:24:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_blue_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-03-03 21:40:51 +0000"
     },
     "done": true
   },
@@ -4544,6 +4556,12 @@
   "aether:recipes/building_blocks/carved_stone_from_sentry_stone_stonecutting": {
     "criteria": {
       "has_sentry_stone": "2025-03-03 21:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-03-03 21:40:51 +0000"
     },
     "done": true
   },
@@ -4607,9 +4625,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-03-03 21:40:51 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-03-03 21:40:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_ring": "2025-03-03 21:22:36 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-03-03 21:40:51 +0000"
     },
     "done": true
   },

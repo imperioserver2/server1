@@ -1975,6 +1975,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-03-03 21:43:48 +0000",
       "minecraft:sparse_jungle": "2025-03-03 17:46:37 +0000",
       "minecraft:river": "2025-03-03 17:45:54 +0000",
       "minecraft:lush_caves": "2025-03-03 18:02:36 +0000"
@@ -4312,27 +4313,9 @@
     },
     "done": true
   },
-  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+  "minecraft:recipes/misc/slime_ball": {
     "criteria": {
-      "has_golden_ring": "2025-03-03 21:11:19 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/carved_stairs": {
-    "criteria": {
-      "has_carved_stone": "2025-03-03 21:12:13 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/zanite_sword_repairing": {
-    "criteria": {
-      "has_zanite_sword": "2025-03-03 21:22:50 +0000"
-    },
-    "done": true
-  },
-  "aether:bronze_dungeon": {
-    "criteria": {
-      "kill_slider": "2025-03-03 21:17:32 +0000"
+      "has_slime_block": "2025-03-03 21:10:47 +0000"
     },
     "done": true
   },
@@ -4342,21 +4325,45 @@
     },
     "done": false
   },
-  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-03-03 21:11:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_ring": "2025-03-03 21:11:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_ring": "2025-03-03 21:11:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_axe_repairing": {
+    "criteria": {
+      "has_zanite_axe": "2025-03-03 21:11:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_golden_amber": "2025-03-03 21:11:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stairs": {
     "criteria": {
       "has_carved_stone": "2025-03-03 21:12:13 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/zanite_pendant_repairing": {
+  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
     "criteria": {
-      "has_zanite_pendant": "2025-03-03 21:17:44 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/enchanted_dart_enchanting": {
-    "criteria": {
-      "has_golden_dart": "2025-03-03 21:22:42 +0000"
+      "has_carved_stone": "2025-03-03 21:12:13 +0000"
     },
     "done": true
   },
@@ -4372,36 +4379,6 @@
     },
     "done": true
   },
-  "aether:recipes/tools/zanite_axe_repairing": {
-    "criteria": {
-      "has_zanite_axe": "2025-03-03 21:11:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2025-03-03 21:10:47 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-03-03 21:11:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/ice_pendant_from_freezing": {
-    "criteria": {
-      "has_pendant": "2025-03-03 21:27:35 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_dart": {
-    "criteria": {
-      "has_golden_amber": "2025-03-03 21:11:35 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/carved_slab": {
     "criteria": {
       "has_carved_stone": "2025-03-03 21:12:13 +0000"
@@ -4414,9 +4391,27 @@
     },
     "done": true
   },
-  "aether:recipes/combat/zanite_ring_repairing": {
+  "aether:recipes/decorations/carved_wall": {
     "criteria": {
-      "has_zanite_ring": "2025-03-03 21:23:02 +0000"
+      "has_carved_stone": "2025-03-03 21:12:13 +0000"
+    },
+    "done": true
+  },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2025-03-03 21:17:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant_repairing": {
+    "criteria": {
+      "has_zanite_pendant": "2025-03-03 21:17:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/enchanted_dart_enchanting": {
+    "criteria": {
+      "has_golden_dart": "2025-03-03 21:22:42 +0000"
     },
     "done": true
   },
@@ -4426,15 +4421,27 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/carved_wall": {
+  "aether:recipes/combat/zanite_sword_repairing": {
     "criteria": {
-      "has_carved_stone": "2025-03-03 21:12:13 +0000"
+      "has_zanite_sword": "2025-03-03 21:22:50 +0000"
     },
     "done": true
   },
-  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+  "aether:recipes/combat/zanite_ring_repairing": {
     "criteria": {
-      "has_golden_ring": "2025-03-03 21:11:19 +0000"
+      "has_zanite_ring": "2025-03-03 21:23:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_pendant_from_freezing": {
+    "criteria": {
+      "has_pendant": "2025-03-03 21:27:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/enchanted_berry_enchanting": {
+    "criteria": {
+      "has_blue_berry": "2025-03-03 21:41:11 +0000"
     },
     "done": true
   },

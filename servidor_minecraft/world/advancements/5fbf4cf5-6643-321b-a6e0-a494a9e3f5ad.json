@@ -4132,6 +4132,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_boots_repairing": {
+    "criteria": {
+      "has_zanite_boots": "2025-03-03 21:42:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/carved_stairs": {
     "criteria": {
       "has_carved_stone": "2025-03-03 21:12:19 +0000"
