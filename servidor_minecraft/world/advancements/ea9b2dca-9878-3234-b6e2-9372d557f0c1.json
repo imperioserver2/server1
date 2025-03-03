@@ -4343,21 +4343,9 @@
     },
     "done": true
   },
-  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
+  "aether:recipes/misc/flower_to_purple_dye": {
     "criteria": {
-      "has_moa_egg": "2025-03-03 20:43:23 +0000"
-    },
-    "done": true
-  },
-  "lost_aether_content:recipes/incubation/orange_moa_incubation": {
-    "criteria": {
-      "has_orange_moa_egg": "2025-03-03 20:46:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/incubation/black_moa_incubation": {
-    "criteria": {
-      "has_black_moa_egg": "2025-03-03 20:46:24 +0000"
+      "has_purple_flower": "2025-03-03 20:37:19 +0000"
     },
     "done": true
   },
@@ -4379,12 +4367,6 @@
     },
     "done": true
   },
-  "aether:recipes/incubation/white_moa_incubation": {
-    "criteria": {
-      "has_white_moa_egg": "2025-03-03 20:43:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-03 20:42:51 +0000"
@@ -4394,12 +4376,6 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-03 20:42:51 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_dart": {
-    "criteria": {
-      "has_feather": "2025-03-03 20:43:06 +0000"
     },
     "done": true
   },
@@ -4421,15 +4397,21 @@
     },
     "done": true
   },
-  "aether:incubate_moa": {
+  "aether:recipes/combat/golden_dart": {
     "criteria": {
-      "incubate_moa": "2025-03-03 20:53:03 +0000"
+      "has_feather": "2025-03-03 20:43:06 +0000"
     },
     "done": true
   },
-  "aether:recipes/misc/flower_to_purple_dye": {
+  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
     "criteria": {
-      "has_purple_flower": "2025-03-03 20:37:19 +0000"
+      "has_moa_egg": "2025-03-03 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/white_moa_incubation": {
+    "criteria": {
+      "has_white_moa_egg": "2025-03-03 20:43:23 +0000"
     },
     "done": true
   },
@@ -4442,6 +4424,36 @@
   "aether:obtain_egg": {
     "criteria": {
       "moa_egg": "2025-03-03 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/black_moa_incubation": {
+    "criteria": {
+      "has_black_moa_egg": "2025-03-03 20:46:24 +0000"
+    },
+    "done": true
+  },
+  "lost_aether_content:recipes/incubation/orange_moa_incubation": {
+    "criteria": {
+      "has_orange_moa_egg": "2025-03-03 20:46:43 +0000"
+    },
+    "done": true
+  },
+  "aether:incubate_moa": {
+    "criteria": {
+      "incubate_moa": "2025-03-03 20:53:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_pickaxe_repairing": {
+    "criteria": {
+      "has_skyroot_pickaxe": "2025-03-03 20:58:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stone_from_sentry_stone_stonecutting": {
+    "criteria": {
+      "has_sentry_stone": "2025-03-03 21:11:58 +0000"
     },
     "done": true
   },

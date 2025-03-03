@@ -2512,6 +2512,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-03 21:01:55 +0000",
       "cooked_mutton": "2025-03-03 20:49:00 +0000",
       "bread": "2025-03-03 18:38:58 +0000",
       "cookie": "2025-03-03 20:07:49 +0000",
@@ -3738,6 +3739,12 @@
     },
     "done": true
   },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-03-03 20:59:37 +0000"
+    },
+    "done": true
+  },
   "lost_aether_content:recipes/incubation/orange_moa_incubation": {
     "criteria": {
       "has_orange_moa_egg": "2025-03-03 20:48:34 +0000"
@@ -3762,9 +3769,33 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-03 20:59:37 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/incubation/black_moa_incubation": {
     "criteria": {
       "has_black_moa_egg": "2025-03-03 20:51:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_ring": "2025-03-03 21:00:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-03-03 21:00:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab": {
+    "criteria": {
+      "has_icestone": "2025-03-03 20:59:37 +0000"
     },
     "done": true
   },
@@ -3777,6 +3808,18 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-03-03 20:54:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-03 20:59:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-03 20:59:37 +0000"
     },
     "done": true
   },
@@ -3855,6 +3898,24 @@
   "aether:incubate_moa": {
     "criteria": {
       "incubate_moa": "2025-03-03 20:49:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_ring": "2025-03-03 21:00:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/icestone_wall": {
+    "criteria": {
+      "has_icestone": "2025-03-03 20:59:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs": {
+    "criteria": {
+      "has_icestone": "2025-03-03 20:59:37 +0000"
     },
     "done": true
   },

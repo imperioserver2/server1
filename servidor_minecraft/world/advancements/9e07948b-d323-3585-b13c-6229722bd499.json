@@ -3274,6 +3274,12 @@
     },
     "done": true
   },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2025-03-03 20:59:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-03-03 20:53:55 +0000"
@@ -3457,6 +3463,12 @@
   "aether:recipes/building_blocks/mossy_holystone_with_vine": {
     "criteria": {
       "has_holystone": "2025-03-03 20:44:30 +0000"
+    },
+    "done": true
+  },
+  "aether:ice_accessory": {
+    "criteria": {
+      "ice_ring": "2025-03-03 21:01:56 +0000"
     },
     "done": true
   },

@@ -3892,33 +3892,33 @@
     },
     "done": true
   },
-  "aether:recipes/tools/zanite_pickaxe": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_zanite": "2025-03-03 20:56:32 +0000"
+      "has_smelts_to_glass": "2025-03-03 20:32:55 +0000"
     },
     "done": true
   },
-  "lost_aether_content:recipes/incubation/orange_moa_incubation": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_orange_moa_egg": "2025-03-03 20:45:22 +0000"
+      "has_sand": "2025-03-03 20:32:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/white_moa_incubation": {
+    "criteria": {
+      "has_white_moa_egg": "2025-03-03 20:34:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/flower_to_purple_dye": {
+    "criteria": {
+      "has_purple_flower": "2025-03-03 20:37:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_purple_dye": "2025-03-03 20:37:51 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/zanite_gloves": {
-    "criteria": {
-      "has_zanite": "2025-03-03 20:56:32 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/zanite_sword": {
-    "criteria": {
-      "has_zanite": "2025-03-03 20:56:32 +0000"
     },
     "done": true
   },
@@ -3931,6 +3931,72 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2025-03-03 20:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 20:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 20:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 20:37:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2025-03-03 20:39:54 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-03-03 20:39:54 +0000"
+    },
+    "done": true
+  },
+  "lost_aether_content:recipes/incubation/orange_moa_incubation": {
+    "criteria": {
+      "has_orange_moa_egg": "2025-03-03 20:45:22 +0000"
+    },
+    "done": true
+  },
+  "aether:incubate_moa": {
+    "criteria": {
+      "incubate_moa": "2025-03-03 20:47:21 +0000"
+    },
+    "done": true
+  },
+  "aether:mount_phyg": {
+    "criteria": {
+      "mount_phyg": "2025-03-03 20:50:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe": {
+    "criteria": {
+      "has_zanite": "2025-03-03 20:56:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_gloves": {
+    "criteria": {
+      "has_zanite": "2025-03-03 20:56:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword": {
+    "criteria": {
+      "has_zanite": "2025-03-03 20:56:32 +0000"
     },
     "done": true
   },
@@ -3958,21 +4024,9 @@
     },
     "done": true
   },
-  "aether:mount_phyg": {
-    "criteria": {
-      "mount_phyg": "2025-03-03 20:50:05 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/tools/zanite_axe": {
     "criteria": {
       "has_zanite": "2025-03-03 20:56:32 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/incubation/white_moa_incubation": {
-    "criteria": {
-      "has_white_moa_egg": "2025-03-03 20:34:23 +0000"
     },
     "done": true
   },
@@ -3985,12 +4039,6 @@
   "aether:recipes/combat/zanite_helmet": {
     "criteria": {
       "has_zanite": "2025-03-03 20:56:32 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/poison_dart_shooter": {
-    "criteria": {
-      "has_aechor_petal": "2025-03-03 20:39:54 +0000"
     },
     "done": true
   },
@@ -4012,27 +4060,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-03-03 20:32:55 +0000"
-    },
-    "done": true
-  },
-  "aether:obtain_petal": {
-    "criteria": {
-      "aechor_petal": "2025-03-03 20:39:54 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
     "criteria": {
       "has_zanite_gemstone": "2025-03-03 20:56:32 +0000"
-    },
-    "done": true
-  },
-  "aether:incubate_moa": {
-    "criteria": {
-      "incubate_moa": "2025-03-03 20:47:21 +0000"
     },
     "done": true
   },
@@ -4048,33 +4078,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_purple_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 20:37:51 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/zanite_ring": {
     "criteria": {
       "has_zanite": "2025-03-03 20:56:32 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/flower_to_purple_dye": {
-    "criteria": {
-      "has_purple_flower": "2025-03-03 20:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 20:37:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 20:37:51 +0000"
     },
     "done": true
   },
@@ -4084,9 +4090,171 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "aether:recipes/combat/zanite_sword_repairing": {
     "criteria": {
-      "has_sand": "2025-03-03 20:32:55 +0000"
+      "has_zanite_sword": "2025-03-03 20:58:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/ambrosium_torch": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-03-03 20:58:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe_repairing": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-03-03 20:58:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ambrosium_block": {
+    "criteria": {
+      "has_ambrosium_shard": "2025-03-03 20:59:04 +0000"
+    },
+    "done": true
+  },
+  "aether:ice_accessory": {
+    "criteria": {
+      "ice_ring": "2025-03-03 21:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stairs": {
+    "criteria": {
+      "has_carved_stone": "2025-03-03 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-03-03 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/carved_wall_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-03-03 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stairs_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-03-03 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stone_from_sentry_stone_stonecutting": {
+    "criteria": {
+      "has_sentry_stone": "2025-03-03 21:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_slab": {
+    "criteria": {
+      "has_carved_stone": "2025-03-03 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-03-03 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/carved_wall": {
+    "criteria": {
+      "has_carved_stone": "2025-03-03 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-03-03 21:13:08 +0000"
     },
     "done": true
   },
