@@ -4126,6 +4126,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_ring": "2025-03-03 21:25:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/carved_stairs": {
     "criteria": {
       "has_carved_stone": "2025-03-03 21:12:19 +0000"
@@ -4135,6 +4141,12 @@
   "sophisticatedstorage:recipes/misc/acacia_barrel": {
     "criteria": {
       "has_acacia_plank": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-03-03 21:25:53 +0000"
     },
     "done": true
   },
@@ -4192,6 +4204,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_pendant_repairing": {
+    "criteria": {
+      "has_zanite_pendant": "2025-03-03 21:24:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/enchanted_dart_enchanting": {
     "criteria": {
       "has_golden_dart": "2025-03-03 21:17:47 +0000"
@@ -4201,6 +4219,12 @@
   "aether:recipes/incubation/blue_moa_incubation": {
     "criteria": {
       "has_blue_moa_egg": "2025-03-03 21:23:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-03-03 21:24:18 +0000"
     },
     "done": true
   },
@@ -4270,6 +4294,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-03-03 21:25:56 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/poison_dart": {
     "criteria": {
       "has_golden_dart": "2025-03-03 21:17:47 +0000"
@@ -4285,6 +4315,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-03-03 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_ring": "2025-03-03 21:25:53 +0000"
     },
     "done": true
   },
