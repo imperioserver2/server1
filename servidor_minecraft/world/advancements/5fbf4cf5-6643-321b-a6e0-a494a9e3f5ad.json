@@ -2360,7 +2360,8 @@
       "mutton": "2025-03-03 19:05:57 +0000",
       "glow_berries": "2025-03-03 17:57:19 +0000",
       "melon_slice": "2025-03-03 17:44:34 +0000",
-      "cooked_chicken": "2025-03-03 18:35:28 +0000"
+      "cooked_chicken": "2025-03-03 18:35:28 +0000",
+      "carrot": "2025-03-03 19:38:36 +0000"
     },
     "done": false
   },
@@ -2372,6 +2373,7 @@
       "minecraft:spider": "2025-03-03 17:46:40 +0000",
       "minecraft:witch": "2025-03-03 19:19:23 +0000",
       "minecraft:husk": "2025-03-03 18:58:22 +0000",
+      "minecraft:stray": "2025-03-03 19:50:03 +0000",
       "minecraft:zombie": "2025-03-03 17:46:27 +0000",
       "minecraft:drowned": "2025-03-03 18:19:53 +0000",
       "minecraft:zombie_villager": "2025-03-03 17:49:52 +0000"
@@ -3565,6 +3567,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-03-03 19:27:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-03-03 19:29:38 +0000"
@@ -3613,12 +3621,6 @@
     },
     "done": true
   },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2025-03-03 19:27:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-03 19:29:38 +0000"
@@ -3628,6 +3630,168 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-03-03 19:29:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-03-03 19:30:41 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-03-03 19:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-03 19:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-03 19:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-03 19:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-03-03 19:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-03 19:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-03-03 19:36:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-03 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 19:38:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 19:38:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 19:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-03 19:38:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 19:38:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-03-03 19:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-03 20:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-03 20:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-03 20:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-03 20:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-03 20:05:22 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 20:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-03 20:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-03 20:05:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-03-03 19:59:29 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/crimson_stroganoff": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 20:05:22 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 20:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-03 20:05:22 +0000"
     },
     "done": true
   },

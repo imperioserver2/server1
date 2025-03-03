@@ -3361,5 +3361,197 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-03 19:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-03 19:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-03 19:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-03 19:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-03 19:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-03 19:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-03 19:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-03 19:38:29 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-03-03 19:40:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-03 19:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-03-03 19:47:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-03 19:48:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-03-03 19:48:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-03-03 19:48:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-03-03 19:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2025-03-03 20:05:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-03-03 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-03-03 20:05:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

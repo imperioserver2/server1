@@ -2011,6 +2011,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-03-03 19:43:39 +0000",
       "melon_slice": "2025-03-03 18:32:54 +0000"
     },
     "done": false
@@ -2680,6 +2681,108 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-03-03 19:08:10 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-03 19:32:53 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/jerky": {
+    "criteria": {
+      "has_raw_meat": "2025-03-03 19:32:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 19:32:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-03 19:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-03-03 19:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-03-03 19:36:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-03-03 19:36:53 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2025-03-03 19:37:21 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2025-03-03 19:37:21 +0000"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2025-03-03 19:37:21 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2025-03-03 19:37:21 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-03-03 19:38:37 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-03-03 19:38:37 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-03-03 19:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-03-03 20:09:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-03-03 20:09:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-03-03 20:12:56 +0000"
     },
     "done": true
   },
