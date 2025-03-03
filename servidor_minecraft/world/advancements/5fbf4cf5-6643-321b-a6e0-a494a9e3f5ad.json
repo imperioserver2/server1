@@ -3723,9 +3723,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/blue_aercloud_freezing": {
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
-      "has_cold_aercloud": "2025-03-03 20:20:30 +0000"
+      "has_chainmail_chestplate": "2025-03-03 19:59:29 +0000"
     },
     "done": true
   },
@@ -3741,33 +3741,15 @@
     },
     "done": true
   },
-  "aether:recipes/tools/cold_parachute": {
-    "criteria": {
-      "has_cold_aercloud": "2025-03-03 20:20:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-03-03 20:05:22 +0000"
     },
     "done": true
   },
-  "aether:the_aether": {
-    "criteria": {
-      "the_aether": "2025-03-03 20:14:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-03-03 20:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-03-03 20:15:52 +0000"
     },
     "done": true
   },
@@ -3789,21 +3771,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
-    "criteria": {
-      "has_cold_aercloud": "2025-03-03 20:20:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-03-03 20:05:22 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_chestplate_repairing": {
-    "criteria": {
-      "has_chainmail_chestplate": "2025-03-03 19:59:29 +0000"
     },
     "done": true
   },
@@ -3819,9 +3789,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-03 20:05:22 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-03-03 20:14:57 +0000"
+    },
+    "done": true
+  },
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2025-03-03 20:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-03 20:15:52 +0000"
     },
     "done": true
   },
@@ -3831,9 +3819,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "aether:recipes/building_blocks/blue_aercloud_freezing": {
     "criteria": {
-      "has_glowstone_dust": "2025-03-03 20:05:22 +0000"
+      "has_cold_aercloud": "2025-03-03 20:20:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2025-03-03 20:20:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
+    "criteria": {
+      "has_cold_aercloud": "2025-03-03 20:20:30 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-03-03 20:23:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2025-03-03 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/black_moa_incubation": {
+    "criteria": {
+      "has_black_moa_egg": "2025-03-03 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2025-03-03 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2025-03-03 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-03-03 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-03-03 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-03-03 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-03-03 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/white_moa_incubation": {
+    "criteria": {
+      "has_white_moa_egg": "2025-03-03 20:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-03 20:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-03 20:32:55 +0000"
     },
     "done": true
   },
