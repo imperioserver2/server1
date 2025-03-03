@@ -1279,3 +1279,57 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [03Mar2025 23:29:31.024] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
 [03Mar2025 23:34:27.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Josh the Angry'/12304, l='ServerLevel[world]', x=-775.58, y=85.00, z=-354.51] died: Josh the Angry was slain by avochvh
 [03Mar2025 23:34:43.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Take Aim]
+[03Mar2025 23:35:30.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has completed the challenge [He Wasn't So Strong]
+[03Mar2025 23:36:13.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[03Mar2025 23:36:13.918] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[03Mar2025 23:36:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Diamonds!]
+[03Mar2025 23:39:18.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver burned to death
+[03Mar2025 23:39:49.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SulfurousLocket[/127.1.0.85:35179] logged in with entity id 14447 at (-734.2503755828966, 85.24918707874468, -334.9217425238222)
+[03Mar2025 23:39:49.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket joined the game
+[03Mar2025 23:39:49.599] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: SulfurousLocket
+[03Mar2025 23:39:49.608] [Server thread/INFO] [Jade/]: Syncing config to SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1)
+[03Mar2025 23:40:27.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was slain by avochvh
+[03Mar2025 23:40:39.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LuxSilver'/14590, l='ServerLevel[world]', x=-727.70, y=85.00, z=-333.81] died: LuxSilver was slain by avochvh
+[03Mar2025 23:41:56.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket lost connection: Disconnected
+[03Mar2025 23:41:56.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket left the game
+[03Mar2025 23:42:01.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was slain by Zombie
+[03Mar2025 23:42:16.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['foxytrapx'/15658, l='ServerLevel[world]', x=-729.42, y=86.00, z=-338.19] died: foxytrapx was slain by avochvh
+[03Mar2025 23:42:20.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was shot by Skeleton
+[03Mar2025 23:42:39.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Zombie
+[03Mar2025 23:42:40.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was shot by Skeleton
+[03Mar2025 23:42:47.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LuxSilver'/15938, l='ServerLevel[world]', x=-714.47, y=89.00, z=-338.23] died: LuxSilver was slain by avochvh
+[03Mar2025 23:42:55.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver hit the ground too hard whilst trying to escape Skeleton
+[03Mar2025 23:42:58.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by LuxSilver
+[03Mar2025 23:42:58.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh tried to swim in lava
+[03Mar2025 23:43:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Zombie
+[03Mar2025 23:43:20.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[03Mar2025 23:43:20.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[03Mar2025 23:43:31.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-727, y=90, z=-330} BlockPos{x=-728, y=90, z=-329}
+[03Mar2025 23:43:53.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[03Mar2025 23:43:56.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: avochvh was kicked for floating too long!
+[03Mar2025 23:43:56.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: avochvh lost connection: Disconnected
+[03Mar2025 23:43:56.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh left the game
+[03Mar2025 23:43:56.505] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Mar2025 23:44:11.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: avochvh[/127.108.89.128:41489] logged in with entity id 18494 at (-599.4918697113962, 160.32346386745738, -506.2310915159368)
+[03Mar2025 23:44:11.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh joined the game
+[03Mar2025 23:44:11.126] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: avochvh
+[03Mar2025 23:44:11.135] [Server thread/INFO] [Jade/]: Syncing config to avochvh (5fbf4cf5-6643-321b-a6e0-a494a9e3f5ad)
+[03Mar2025 23:44:48.525] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['avochvh'/19183, l='ServerLevel[world]', x=-648.89, y=69.00, z=-423.35] died: avochvh was blown up by Creeperling
+[03Mar2025 23:44:52.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was blown up by Creeper
+[03Mar2025 23:46:04.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was shot by Skeleton
+[03Mar2025 23:46:37.275] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e6ca14c[id=<null>,name=SulfurousLocket,properties={},legacy=false] (/127.1.0.85:34597) lost connection: Disconnected
+[03Mar2025 23:47:14.310] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77142727[id=<null>,name=SulfurousLocket,properties={},legacy=false] (/127.1.0.85:44153) lost connection: Disconnected
+[03Mar2025 23:47:58.659] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40f7810c[id=<null>,name=SulfurousLocket,properties={},legacy=false] (/127.1.0.85:57527) lost connection: Disconnected
+[03Mar2025 23:48:21.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LuxSilver'/16163, l='ServerLevel[world]', x=-715.47, y=86.84, z=-333.15] died: LuxSilver tried to swim in lava
+[03Mar2025 23:48:23.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LuxSilver'/16258, l='ServerLevel[world]', x=-715.57, y=86.00, z=-333.98] died: LuxSilver tried to swim in lava
+[03Mar2025 23:48:24.161] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['avochvh'/20260, l='ServerLevel[world]', x=-716.38, y=86.00, z=-333.61] died: avochvh tried to swim in lava
+[03Mar2025 23:48:34.559] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12a130c9[id=<null>,name=SulfurousLocket,properties={},legacy=false] (/127.1.0.85:53859) lost connection: Disconnected
+[03Mar2025 23:48:41.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['foxytrapx'/16960, l='ServerLevel[world]', x=-717.38, y=86.00, z=-335.30] died: foxytrapx tried to swim in lava
+[03Mar2025 23:49:02.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['foxytrapx'/16625, l='ServerLevel[world]', x=-719.48, y=85.00, z=-333.91] died: foxytrapx tried to swim in lava
+[03Mar2025 23:49:15.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LuxSilver'/15717, l='ServerLevel[world]', x=-717.39, y=86.00, z=-335.33] died: LuxSilver tried to swim in lava to escape foxytrapx
+[03Mar2025 23:49:17.505] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['foxytrapx'/17212, l='ServerLevel[world]', x=-717.53, y=85.00, z=-334.69] died: foxytrapx tried to swim in lava to escape foxytrapx
+[03Mar2025 23:49:19.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['foxytrapx'/16432, l='ServerLevel[world]', x=-716.82, y=86.31, z=-335.65] died: foxytrapx tried to swim in lava to escape foxytrapx
+[03Mar2025 23:49:19.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LuxSilver'/16472, l='ServerLevel[world]', x=-716.34, y=86.00, z=-334.81] died: LuxSilver tried to swim in lava to escape foxytrapx
+[03Mar2025 23:49:25.853] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['avochvh'/20212, l='ServerLevel[world]', x=-716.28, y=86.39, z=-333.44] died: avochvh tried to swim in lava to escape foxytrapx
+[03Mar2025 23:49:32.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['foxytrapx'/16195, l='ServerLevel[world]', x=-717.04, y=86.00, z=-333.79] died: foxytrapx tried to swim in lava to escape foxytrapx
+[03Mar2025 23:51:49.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LuxSilver'/16559, l='ServerLevel[world]', x=-710.72, y=84.00, z=-318.65] died: LuxSilver was slain by avochvh

@@ -4849,9 +4849,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/bow_repairing": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_bow": "2025-03-03 23:19:01 +0000"
+      "has_netherrack": "2025-03-03 23:17:33 +0000"
     },
     "done": true
   },
@@ -4861,21 +4861,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-03-03 23:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-03-03 23:19:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-03-03 23:17:33 +0000"
-    },
-    "done": true
-  },
   "lost_aether_content:recipes/incubation/brown_moa_incubation": {
     "criteria": {
       "has_brown_moa_egg": "2025-03-03 23:29:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-03-03 23:34:28 +0000"
     },
     "done": true
   },

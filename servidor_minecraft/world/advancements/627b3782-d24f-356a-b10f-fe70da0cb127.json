@@ -4252,6 +4252,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-03-03 23:37:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/enchanted_dart_enchanting": {
     "criteria": {
       "has_golden_dart": "2025-03-03 23:23:55 +0000"
@@ -4267,6 +4273,12 @@
   "aether:recipes/misc/ice_pendant_from_freezing": {
     "criteria": {
       "has_pendant": "2025-03-03 23:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-03 23:37:04 +0000"
     },
     "done": true
   },
