@@ -4445,5 +4445,23 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/angelic_stone_from_light_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_light_angelic_stone": "2025-03-03 22:00:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/enchanted_dart_shooter_enchanting": {
+    "criteria": {
+      "has_golden_dart_shooter": "2025-03-03 22:00:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-03-03 21:59:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

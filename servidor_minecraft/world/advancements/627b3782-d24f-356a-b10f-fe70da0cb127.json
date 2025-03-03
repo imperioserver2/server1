@@ -3739,105 +3739,9 @@
     },
     "done": true
   },
-  "aether:icestone": {
-    "criteria": {
-      "icestone": "2025-03-03 20:59:37 +0000"
-    },
-    "done": true
-  },
   "lost_aether_content:recipes/incubation/orange_moa_incubation": {
     "criteria": {
       "has_orange_moa_egg": "2025-03-03 20:48:34 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:recipes/misc/bandage": {
-    "criteria": {
-      "has_string": "2025-03-03 20:54:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_loom": {
-    "criteria": {
-      "has_string": "2025-03-03 20:54:15 +0000"
-    },
-    "done": true
-  },
-  "tetra:recipes/string": {
-    "criteria": {
-      "got_string": "2025-03-03 20:54:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
-    "criteria": {
-      "has_icestone": "2025-03-03 20:59:37 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/incubation/black_moa_incubation": {
-    "criteria": {
-      "has_black_moa_egg": "2025-03-03 20:51:30 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_ring": "2025-03-03 21:00:41 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/ice_ring_from_freezing": {
-    "criteria": {
-      "has_ring": "2025-03-03 21:00:41 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/icestone_slab": {
-    "criteria": {
-      "has_icestone": "2025-03-03 20:59:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-03-03 20:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-03-03 20:54:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
-    "criteria": {
-      "has_icestone": "2025-03-03 20:59:37 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
-    "criteria": {
-      "has_icestone": "2025-03-03 20:59:37 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/ambrosium_block": {
-    "criteria": {
-      "has_ambrosium_shard": "2025-03-03 20:55:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-03-03 20:50:13 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/skyroot_tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-03-03 20:54:15 +0000"
     },
     "done": true
   },
@@ -3853,27 +3757,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-03-03 20:48:45 +0000"
+    },
+    "done": true
+  },
+  "aether:incubate_moa": {
+    "criteria": {
+      "incubate_moa": "2025-03-03 20:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-03 20:50:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-03 20:50:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-03-03 20:54:15 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-03 20:50:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-03-03 20:54:15 +0000"
     },
     "done": true
   },
@@ -3895,15 +3805,105 @@
     },
     "done": true
   },
-  "aether:incubate_moa": {
+  "aether:recipes/incubation/black_moa_incubation": {
     "criteria": {
-      "incubate_moa": "2025-03-03 20:49:23 +0000"
+      "has_black_moa_egg": "2025-03-03 20:51:30 +0000"
     },
     "done": true
   },
-  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+  "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
-      "has_iron_ring": "2025-03-03 21:00:41 +0000"
+      "has_string": "2025-03-03 20:54:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-03-03 20:54:15 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-03-03 20:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-03 20:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-03 20:54:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-03 20:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-03 20:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-03 20:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-03 20:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-03 20:54:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ambrosium_block": {
+    "criteria": {
+      "has_ambrosium_shard": "2025-03-03 20:55:44 +0000"
+    },
+    "done": true
+  },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-03-03 20:59:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-03 20:59:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab": {
+    "criteria": {
+      "has_icestone": "2025-03-03 20:59:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-03 20:59:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-03 20:59:37 +0000"
     },
     "done": true
   },
@@ -3919,21 +3919,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
-      "has_string": "2025-03-03 20:54:15 +0000"
+      "has_iron_ring": "2025-03-03 21:00:41 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
+  "aether:recipes/misc/ice_ring_from_freezing": {
     "criteria": {
-      "has_mutton": "2025-03-03 20:48:45 +0000"
+      "has_ring": "2025-03-03 21:00:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
     "criteria": {
-      "has_string": "2025-03-03 20:54:15 +0000"
+      "has_iron_ring": "2025-03-03 21:00:41 +0000"
     },
     "done": true
   },
