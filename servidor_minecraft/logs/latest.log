@@ -13,3 +13,43 @@
 [04Mar2025 00:04:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Best Friends Forever]
 [04Mar2025 00:04:49.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: avochvh moved too quickly! -5229.940565939097,-77.93050451123717,-2457.454273332534
 [04Mar2025 00:05:20.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [The Silence of the Forest]
+[04Mar2025 00:06:55.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has made the advancement [The Silence of the Forest]
+[04Mar2025 00:07:41.013] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/darktower/EnumDarkTowerDoor
+[04Mar2025 00:12:06.171] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$BasementType
+[04Mar2025 00:12:46.542] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[04Mar2025 00:12:46.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <foxytrapx> Toin
+[04Mar2025 00:14:35.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has made the advancement [Barrel Booty]
+[04Mar2025 00:14:36.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Barrel Booty]
+[04Mar2025 00:18:31.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SulfurousLocket[/127.1.0.85:42395] logged in with entity id 90773 at (-736.9029338533823, 89.0, -301.06610684008814)
+[04Mar2025 00:18:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket joined the game
+[04Mar2025 00:18:31.574] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: SulfurousLocket
+[04Mar2025 00:18:31.584] [Server thread/INFO] [Jade/]: Syncing config to SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1)
+[04Mar2025 00:18:35.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3605ms or 72 ticks behind
+[04Mar2025 00:23:58.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LuxSilver'/90854, l='ServerLevel[world]', x=-720.44, y=88.23, z=-342.23] died: LuxSilver was slain by SulfurousLocket
+[04Mar2025 00:24:48.504] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['avochvh'/90799, l='ServerLevel[world]', x=-795.67, y=45.83, z=-339.67] died: avochvh was slain by Axolotl
+[04Mar2025 00:27:46.704] [ForkJoinPool.commonPool-worker-13/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[04Mar2025 00:27:46.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Katze5O5[/127.62.221.128:41257] logged in with entity id 99778 at (-662.6695047440284, 54.0, -597.973601150347)
+[04Mar2025 00:27:46.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 joined the game
+[04Mar2025 00:27:46.778] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Katze5O5
+[04Mar2025 00:27:46.788] [Server thread/INFO] [Jade/]: Syncing config to Katze5O5 (9e07948b-d323-3585-b13c-6229722bd499)
+[04Mar2025 00:28:32.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved too quickly! 0.8464596089752376,-0.42745819990306533,-10.139444958433614
+[04Mar2025 00:28:32.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katze5O5 moved too quickly! -7.1454339520136045,-0.7967356006687112,7.110504938488589
+[04Mar2025 00:28:32.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4117ms or 82 ticks behind
+[04Mar2025 00:28:52.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [Don't Count Your Moas...]
+[04Mar2025 00:28:52.882] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[04Mar2025 00:28:52.882] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[04Mar2025 00:28:52.883] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[04Mar2025 00:30:02.517] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[04Mar2025 00:30:08.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 hit the ground too hard
+[04Mar2025 00:31:52.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 was shot by Skeleton
+[04Mar2025 00:31:56.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [Unbreaking X]
+[04Mar2025 00:32:48.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 was slain by Husk
+[04Mar2025 00:33:02.129] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[04Mar2025 00:33:13.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [Unbreaking X]
+[04Mar2025 00:33:56.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5230.1363775868795,-77.92159999847412,-2456.8772868231567
+[04Mar2025 00:34:04.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5229.314316656228,-77.92159999847412,-2456.9134192043666
+[04Mar2025 00:34:31.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! 5230.619321522943,78.07840000152588,2456.0569266755147
+[04Mar2025 00:34:46.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Katze5O5'/106118, l='ServerLevel[world]', x=-737.30, y=83.00, z=-329.66] died: Katze5O5 was slain by SulfurousLocket
+[04Mar2025 00:34:48.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5229.504384009581,-77.99520087700593,-2457.2997857091436
+[04Mar2025 00:35:32.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Katze5O5: Skin changed]
+[04Mar2025 00:35:36.042] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketHotkeyPressed$Key

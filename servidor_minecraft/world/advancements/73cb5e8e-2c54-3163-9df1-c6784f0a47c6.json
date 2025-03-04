@@ -2097,11 +2097,13 @@
       "cooked_beef": "2025-03-03 20:26:06 +0000",
       "beef": "2025-03-03 19:14:15 +0000",
       "tropical_fish": "2025-03-03 19:01:23 +0000",
+      "cooked_cod": "2025-03-04 00:24:37 +0000",
       "mutton": "2025-03-03 21:23:55 +0000",
       "bread": "2025-03-03 21:31:03 +0000",
       "rotten_flesh": "2025-03-03 23:52:39 +0000",
       "glow_berries": "2025-03-03 18:07:13 +0000",
-      "melon_slice": "2025-03-03 17:50:31 +0000"
+      "melon_slice": "2025-03-03 17:50:31 +0000",
+      "mushroom_stew": "2025-03-04 00:10:13 +0000"
     },
     "done": false
   },
@@ -4326,6 +4328,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-03-04 00:14:36 +0000",
       "opened_chest": "2025-03-03 21:11:17 +0000"
     },
     "done": false
@@ -4588,6 +4591,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 00:11:15 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-04 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-03-04 00:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -4600,11 +4621,43 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2025-03-04 00:08:24 +0000",
+      "twilight_oak_log": "2025-03-04 00:08:21 +0000",
+      "twilight_oak_sapling": "2025-03-04 00:08:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-03-04 00:09:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-03-04 00:03:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_venison": "2025-03-04 00:09:06 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
@@ -4630,6 +4683,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-03-04 00:09:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -4642,15 +4701,57 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-03-04 00:10:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-04 00:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-03-03 23:30:36 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-04 00:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-04 00:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-03-04 00:14:36 +0000"
     },
     "done": true
   },
@@ -4678,9 +4779,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-03-04 00:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_cyan_wool": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-04 00:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-03-03 23:36:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/apple_jelly": {
+    "criteria": {
+      "has_apple": "2025-03-04 00:09:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-04 00:10:13 +0000"
     },
     "done": true
   },
@@ -4690,15 +4827,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "deer": "2025-03-04 00:05:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
   "lost_aether_content:recipes/incubation/brown_moa_incubation": {
     "criteria": {
       "has_brown_moa_egg": "2025-03-03 23:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-04 00:10:05 +0000"
     },
     "done": true
   },
@@ -4711,6 +4872,12 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-03 23:30:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2025-03-04 00:05:21 +0000"
     },
     "done": true
   },
@@ -4738,9 +4905,63 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2025-03-04 00:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-03-04 00:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-04 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-03-04 00:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-03-04 00:03:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-04 00:10:13 +0000"
     },
     "done": true
   },
@@ -4750,15 +4971,57 @@
     },
     "done": true
   },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-04 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-03-03 23:41:49 +0000"
     },
     "done": true
   },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_lime_wool": "2025-03-04 00:02:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-03-04 00:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-03-03 23:53:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-03-04 00:09:52 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_lime_wool": "2025-03-04 00:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-04 00:10:05 +0000"
     },
     "done": true
   },
@@ -4774,9 +5037,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-03-04 00:22:41 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-03-04 00:00:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:24 +0000"
     },
     "done": true
   },
@@ -4789,6 +5064,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-03-03 23:53:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2025-03-04 00:05:21 +0000"
     },
     "done": true
   },

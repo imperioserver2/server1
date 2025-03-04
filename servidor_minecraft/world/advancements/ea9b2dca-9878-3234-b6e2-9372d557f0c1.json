@@ -2393,6 +2393,7 @@
       "minecraft:spider": "2025-03-03 17:47:30 +0000",
       "minecraft:creeper": "2025-03-03 17:48:37 +0000",
       "minecraft:witch": "2025-03-03 19:27:02 +0000",
+      "minecraft:husk": "2025-03-04 00:24:10 +0000",
       "minecraft:zombie": "2025-03-03 17:48:57 +0000",
       "minecraft:zombie_villager": "2025-03-03 18:21:31 +0000"
     },
@@ -3047,8 +3048,10 @@
       "potato": "2025-03-03 20:37:00 +0000",
       "mutton": "2025-03-03 17:58:32 +0000",
       "bread": "2025-03-03 19:40:55 +0000",
+      "rotten_flesh": "2025-03-04 00:24:30 +0000",
       "glow_berries": "2025-03-03 17:57:12 +0000",
-      "melon_slice": "2025-03-03 18:01:30 +0000"
+      "melon_slice": "2025-03-03 18:01:30 +0000",
+      "cooked_chicken": "2025-03-04 00:27:32 +0000"
     },
     "done": false
   },
@@ -4904,6 +4907,42 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-03-03 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-03-04 00:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-04 00:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-04 00:30:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-03-04 00:27:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-03-04 00:24:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-03-04 00:27:09 +0000"
     },
     "done": true
   },
