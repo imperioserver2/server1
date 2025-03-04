@@ -1314,3 +1314,9 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 19:52:31.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
 [04Mar2025 19:54:24.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
 [04Mar2025 19:59:28.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [foxytrapx: Skin changed]
+[04Mar2025 20:02:40.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [Far From Perfect]
+[04Mar2025 20:07:01.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[04Mar2025 20:07:01.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Ice Bucket Challenge]
+[04Mar2025 20:08:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [Cover Me with Diamonds]
+[04Mar2025 20:08:31.954] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$HutType
+[04Mar2025 20:08:31.961] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/WoodPalette$WoodShapes
