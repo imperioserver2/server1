@@ -5745,6 +5745,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2025-03-04 18:59:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/equipment/knightmetal_pickaxe": {
     "criteria": {
       "has_item": "2025-03-04 18:56:04 +0000"
@@ -5775,15 +5781,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 18:58:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2025-03-04 18:59:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/knightmetal_leggings": {
     "criteria": {
       "has_item": "2025-03-04 18:56:04 +0000"
     },
     "done": true
   },
+  "aether:recipes/misc/flower_to_white_dye": {
+    "criteria": {
+      "has_white_flower": "2025-03-04 19:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 18:58:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/block_and_chain": {
     "criteria": {
       "has_ingot": "2025-03-04 18:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 18:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 18:58:11 +0000"
     },
     "done": true
   },
@@ -5799,15 +5841,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 18:58:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/knightmetal_helmet": {
     "criteria": {
       "has_item": "2025-03-04 18:56:04 +0000"
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-03-04 18:58:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/equipment/knightmetal_ring": {
     "criteria": {
       "has_item": "2025-03-04 18:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 18:58:11 +0000"
     },
     "done": true
   },

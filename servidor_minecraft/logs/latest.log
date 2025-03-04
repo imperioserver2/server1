@@ -1277,3 +1277,14 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 18:59:18.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Katze5O5: No skin changes]
 [04Mar2025 18:59:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [Diamonds!]
 [04Mar2025 19:00:05.793] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[04Mar2025 19:04:51.181] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[04Mar2025 19:07:34.015] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[04Mar2025 19:09:20.376] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[04Mar2025 19:09:20.377] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[04Mar2025 19:09:20.399] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[04Mar2025 19:09:20.400] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[04Mar2025 19:09:22.944] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/Starbuncle$StarbuncleGoalState
+[04Mar2025 19:09:25.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[04Mar2025 19:11:13.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katze5O5 moved too quickly! -5229.737972691913,-77.92159999847412,-2456.9284725183593
+[04Mar2025 19:13:02.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/1754, l='ServerLevel[world]', x=-5916.09, y=4.00, z=-2941.64] died: SulfurousLocket was slain by Katze5O5
+[04Mar2025 19:15:35.050] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING

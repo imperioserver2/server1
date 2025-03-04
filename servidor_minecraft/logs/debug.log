@@ -8083,3 +8083,45 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 19:00:29.293] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$1(I)[Lnet/minecraft/world/item/ItemStack; to md1af558$lambda$brewinandchewin$addExtraFluidContextToPick$1$9 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
 [04Mar2025 19:00:29.293] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$0(Lnet/minecraftforge/fluids/capability/templates/FluidTank;Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Z to md1af558$lambda$brewinandchewin$addExtraFluidContextToPick$0$a in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
 [04Mar2025 19:00:29.299] [Server thread/DEBUG] [mixin/]: Mixing StackedContentsRecipePickerAccessor from brewinandchewin.mixins.json into net.minecraft.world.entity.player.StackedContents$RecipePicker
+[04Mar2025 19:01:36.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 19:01:36.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 19:01:37.929] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9503de92-046c-4d61-8afe-8c0d71c6afae)
+[04Mar2025 19:01:37.930] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d4f664d6-2a9e-4a84-8138-038ceb1ce044)
+[04Mar2025 19:03:19.734] [Worker-Main-1/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Mar2025 19:03:19.734] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Mar2025 19:03:22.738] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[04Mar2025 19:03:22.751] [Worker-Main-2/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[04Mar2025 19:04:51.181] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[04Mar2025 19:04:51.495] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[04Mar2025 19:06:36.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 19:06:36.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 19:07:34.015] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[04Mar2025 19:09:18.674] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 19:09:19.433] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d4f664d6-2a9e-4a84-8138-038ceb1ce044)
+[04Mar2025 19:09:19.778] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (ee221b08-fa17-454b-bc21-f31dc1fe9322)
+[04Mar2025 19:09:20.361] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 19:09:20.376] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[04Mar2025 19:09:20.377] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[04Mar2025 19:09:20.399] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[04Mar2025 19:09:20.400] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[04Mar2025 19:09:20.434] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_shield)
+[04Mar2025 19:09:22.944] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/Starbuncle$StarbuncleGoalState
+[04Mar2025 19:09:25.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[04Mar2025 19:09:36.595] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9503de92-046c-4d61-8afe-8c0d71c6afae)
+[04Mar2025 19:09:59.943] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[04Mar2025 19:11:12.894] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 19:11:13.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katze5O5 moved too quickly! -5229.737972691913,-77.92159999847412,-2456.9284725183593
+[04Mar2025 19:11:29.370] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (d4f664d6-2a9e-4a84-8138-038ceb1ce044)
+[04Mar2025 19:11:29.372] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (d4f664d6-2a9e-4a84-8138-038ceb1ce044)
+[04Mar2025 19:11:29.380] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (d4f664d6-2a9e-4a84-8138-038ceb1ce044)
+[04Mar2025 19:11:36.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 19:11:36.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 19:13:02.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/1754, l='ServerLevel[world]', x=-5916.09, y=4.00, z=-2941.64] died: SulfurousLocket was slain by Katze5O5
+[04Mar2025 19:15:05.237] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[04Mar2025 19:15:05.237] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d4f664d6-2a9e-4a84-8138-038ceb1ce044)
+[04Mar2025 19:15:35.050] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[04Mar2025 19:16:33.173] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (d4f664d6-2a9e-4a84-8138-038ceb1ce044)
+[04Mar2025 19:16:33.174] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (d4f664d6-2a9e-4a84-8138-038ceb1ce044)
+[04Mar2025 19:16:33.175] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (d4f664d6-2a9e-4a84-8138-038ceb1ce044)
+[04Mar2025 19:16:36.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 19:16:36.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
