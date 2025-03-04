@@ -2394,6 +2394,7 @@
       "minecraft:creeper": "2025-03-03 17:48:37 +0000",
       "minecraft:witch": "2025-03-03 19:27:02 +0000",
       "minecraft:husk": "2025-03-04 00:24:10 +0000",
+      "minecraft:enderman": "2025-03-04 00:39:38 +0000",
       "minecraft:zombie": "2025-03-03 17:48:57 +0000",
       "minecraft:zombie_villager": "2025-03-03 18:21:31 +0000"
     },
@@ -4910,9 +4911,63 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_log": "2025-03-04 00:38:47 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-03-04 00:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-04 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-04 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-03-04 00:38:47 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-03-04 00:31:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-03-04 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-03-04 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 00:31:41 +0000"
     },
     "done": true
   },
@@ -4922,9 +4977,21 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 00:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-03-04 00:30:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2025-03-04 00:38:47 +0000"
     },
     "done": true
   },

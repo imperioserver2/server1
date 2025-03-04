@@ -53,3 +53,14 @@
 [04Mar2025 00:34:48.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5229.504384009581,-77.99520087700593,-2457.2997857091436
 [04Mar2025 00:35:32.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Katze5O5: Skin changed]
 [04Mar2025 00:35:36.042] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketHotkeyPressed$Key
+[04Mar2025 00:38:22.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 was slain by SulfurousLocket
+[04Mar2025 00:39:35.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 was slain by Enderman
+[04Mar2025 00:40:01.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was shot by Skeleton
+[04Mar2025 00:41:14.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has made the advancement [Epic!]
+[04Mar2025 00:41:32.727] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[04Mar2025 00:41:49.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Epic!]
+[04Mar2025 00:43:23.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6162, y=1, z=-2689} BlockPos{x=-6162, y=-1, z=-2689}
+[04Mar2025 00:43:23.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6162, y=1, z=-2689} BlockPos{x=-6162, y=-1, z=-2689}
+[04Mar2025 00:43:32.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [Barrel Booty]
+[04Mar2025 00:44:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement ['X' Marks the Spot]
+[04Mar2025 00:44:38.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [Not a Diamond]

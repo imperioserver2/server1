@@ -1891,6 +1891,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2025-03-04 00:31:35 +0000",
       "minecraft:river": "2025-03-03 18:29:27 +0000",
       "minecraft:jungle": "2025-03-04 00:29:04 +0000"
     },
@@ -2014,6 +2015,8 @@
     "criteria": {
       "beef": "2025-03-03 20:53:59 +0000",
       "porkchop": "2025-03-03 20:41:51 +0000",
+      "potato": "2025-03-04 00:38:08 +0000",
+      "cooked_cod": "2025-03-04 00:35:47 +0000",
       "bread": "2025-03-03 19:43:39 +0000",
       "melon_slice": "2025-03-03 18:32:54 +0000"
     },
@@ -3509,6 +3512,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-03-04 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 00:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-03-04 00:29:08 +0000"
@@ -3521,9 +3536,81 @@
     },
     "done": true
   },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-03-04 00:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-04 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-04 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-04 00:33:47 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/moa_egg_cake": {
     "criteria": {
       "has_moa_egg": "2025-03-04 00:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-03-04 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-04 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-04 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-03-04 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/vodka_from_water": {
+    "criteria": {
+      "has_potato": "2025-03-04 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-03-04 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-03-04 00:34:45 +0000"
     },
     "done": true
   },

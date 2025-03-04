@@ -2103,6 +2103,7 @@
       "rotten_flesh": "2025-03-03 23:52:39 +0000",
       "glow_berries": "2025-03-03 18:07:13 +0000",
       "melon_slice": "2025-03-03 17:50:31 +0000",
+      "cooked_chicken": "2025-03-04 00:33:04 +0000",
       "mushroom_stew": "2025-03-04 00:10:13 +0000"
     },
     "done": false
@@ -4591,9 +4592,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-04 00:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-03-04 00:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-04 00:31:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-04 00:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-03-04 00:31:26 +0000"
     },
     "done": true
   },
@@ -4677,6 +4702,18 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-03-04 00:31:27 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-03-04 00:31:27 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-03-03 23:24:02 +0000"
@@ -4704,6 +4741,12 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-03-04 00:10:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/yellow_cape": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-04 00:31:20 +0000"
     },
     "done": true
   },
@@ -4743,6 +4786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-03-04 00:31:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -4767,6 +4816,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_orange_wool": "2025-03-04 00:31:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-03 23:30:36 +0000"
@@ -4779,9 +4834,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-04 00:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2025-03-04 00:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-03-04 00:31:26 +0000"
     },
     "done": true
   },
@@ -4815,6 +4882,12 @@
     },
     "done": true
   },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_orange_wool": "2025-03-04 00:31:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-03-04 00:10:13 +0000"
@@ -4833,6 +4906,12 @@
     },
     "done": true
   },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_magenta_wool": "2025-03-04 00:31:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -4842,6 +4921,12 @@
   "twilightforest:twilight_hunter": {
     "criteria": {
       "deer": "2025-03-04 00:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-04 00:31:27 +0000"
     },
     "done": true
   },
@@ -4881,9 +4966,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_magenta_wool": "2025-03-04 00:31:23 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-03 23:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-04 00:31:20 +0000"
     },
     "done": true
   },
@@ -4902,6 +4999,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-03 23:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-03-04 00:31:23 +0000"
     },
     "done": true
   },
@@ -4938,6 +5041,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-03-04 00:31:23 +0000"
     },
     "done": true
   },
@@ -4995,6 +5104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-04 00:31:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-03-04 00:11:15 +0000"
@@ -5016,6 +5131,12 @@
   "comforts:sleeping_bag_lime": {
     "criteria": {
       "has_lime_wool": "2025-03-04 00:02:24 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-04 00:31:20 +0000"
     },
     "done": true
   },
@@ -5064,6 +5185,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-03-03 23:53:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-04 00:31:20 +0000"
     },
     "done": true
   },
