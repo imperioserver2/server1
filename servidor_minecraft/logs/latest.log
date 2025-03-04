@@ -1353,3 +1353,14 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 21:00:09.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx left the game
 [04Mar2025 21:00:09.222] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [04Mar2025 21:01:24.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/41804, l='ServerLevel[world]', x=-6003.00, y=6.00, z=-2906.51] died: SulfurousLocket was slain by LuxSilver
+[04Mar2025 21:06:18.070] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fca3c29[id=<null>,name=foxytrapx,properties={},legacy=false] (/127.221.218.87:59997) lost connection: Disconnected
+[04Mar2025 21:06:31.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: foxytrapx[/127.221.218.87:53625] logged in with entity id 43007 at (-6137.774160256784, 7.0, -3848.098507408557)
+[04Mar2025 21:06:31.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx joined the game
+[04Mar2025 21:06:31.483] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: foxytrapx
+[04Mar2025 21:06:31.493] [Server thread/INFO] [Jade/]: Syncing config to foxytrapx (73cb5e8e-2c54-3163-9df1-c6784f0a47c6)
+[04Mar2025 21:06:57.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved too quickly! -5229.8814743669855,-77.93050451123717,-2457.3380528704574
+[04Mar2025 21:11:23.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver's brain was turned into leaves by Skeleton Druid
+[04Mar2025 21:11:45.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was schooled by Death Tome
+[04Mar2025 21:11:53.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved too quickly! -5229.78164666732,-77.85489329934836,-2457.1338486625823
+[04Mar2025 21:14:36.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was slain by Mist Wolf
+[04Mar2025 21:15:01.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver moved too quickly! -5229.818154152068,-77.92159999847412,-2457.0585450034805
