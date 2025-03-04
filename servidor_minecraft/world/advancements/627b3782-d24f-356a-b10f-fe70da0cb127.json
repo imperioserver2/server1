@@ -5103,5 +5103,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-04 03:35:38 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/copper_cup": {
+    "criteria": {
+      "has_copper": "2025-03-04 03:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-04 03:35:38 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/copper_carrot": {
+    "criteria": {
+      "has_copper": "2025-03-04 03:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-04 03:35:38 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/copper_pot": {
+    "criteria": {
+      "has_copper": "2025-03-04 03:35:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
