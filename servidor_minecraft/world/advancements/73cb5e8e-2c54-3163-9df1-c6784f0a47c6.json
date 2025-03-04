@@ -4975,6 +4975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-04 02:12:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/canopy_wood": {
     "criteria": {
       "has_item": "2025-03-04 00:45:12 +0000"
@@ -5246,6 +5252,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-03-04 02:12:04 +0000"
+    },
+    "done": true
+  },
   "lost_aether_content:recipes/incubation/brown_moa_incubation": {
     "criteria": {
       "has_brown_moa_egg": "2025-03-03 23:26:46 +0000"
@@ -5426,6 +5438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-04 02:12:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-03-04 01:19:01 +0000"
@@ -5465,6 +5483,12 @@
   "twilightforest:recipes/building_blocks/canopy_bookshelf": {
     "criteria": {
       "has_item": "2025-03-04 00:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-04 02:12:04 +0000"
     },
     "done": true
   },

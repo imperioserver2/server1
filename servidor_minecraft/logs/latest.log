@@ -149,3 +149,21 @@
 [04Mar2025 02:05:51.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5230.077695006899,-77.82321143446856,-2457.7825623978165
 [04Mar2025 02:06:33.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Block and Chain Goblin
 [04Mar2025 02:06:48.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[04Mar2025 02:08:09.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Mist Wolf
+[04Mar2025 02:08:29.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Zombie
+[04Mar2025 02:08:36.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5229.794718633797,-77.93050451123717,-2457.271518415623
+[04Mar2025 02:08:39.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Mar2025 02:08:40.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5228.988158315155,-77.92159999847412,-2457.0604938105284
+[04Mar2025 02:09:07.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh's brain was turned into leaves by Skeleton Druid
+[04Mar2025 02:09:17.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: avochvh lost connection: Disconnected
+[04Mar2025 02:09:17.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh left the game
+[04Mar2025 02:12:18.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was skewered by Block and Chain Goblin
+[04Mar2025 02:12:56.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Redcap Sapper
+[04Mar2025 02:13:14.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved too quickly! -5229.3648802420785,-77.93050451123717,-2457.3990603757993
+[04Mar2025 02:13:15.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket lost connection: Disconnected
+[04Mar2025 02:13:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket left the game
+[04Mar2025 02:13:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket bled to death
+[04Mar2025 02:13:26.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx lost connection: Disconnected
+[04Mar2025 02:13:26.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx left the game
+[04Mar2025 02:15:14.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver starved to death
+[04Mar2025 02:15:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was slain by SulfurousLocket

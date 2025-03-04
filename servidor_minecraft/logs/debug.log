@@ -14959,3 +14959,62 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 02:06:38.492] [Server thread/DEBUG] [twilightforest/]: Player foxytrapx (73cb5e8e-2c54-3163-9df1-c6784f0a47c6) respawned and received items held in storage
 [04Mar2025 02:06:48.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
 [04Mar2025 02:06:52.330] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 02:08:09.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Mist Wolf
+[04Mar2025 02:08:10.899] [Server thread/DEBUG] [twilightforest/]: Player SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1) respawned and received items held in storage
+[04Mar2025 02:08:11.556] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_shield)
+[04Mar2025 02:08:29.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Zombie
+[04Mar2025 02:08:31.246] [Server thread/DEBUG] [twilightforest/]: Player SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1) respawned and received items held in storage
+[04Mar2025 02:08:35.676] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 02:08:36.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5229.794718633797,-77.93050451123717,-2457.271518415623
+[04Mar2025 02:08:37.511] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 02:08:39.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Mar2025 02:08:39.708] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 02:08:40.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5228.988158315155,-77.92159999847412,-2457.0604938105284
+[04Mar2025 02:08:52.527] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 02:09:07.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh's brain was turned into leaves by Skeleton Druid
+[04Mar2025 02:09:08.801] [Server thread/DEBUG] [twilightforest/]: Player avochvh (5fbf4cf5-6643-321b-a6e0-a494a9e3f5ad) respawned and received items held in storage
+[04Mar2025 02:09:14.679] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 02:09:17.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: avochvh lost connection: Disconnected
+[04Mar2025 02:09:17.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh left the game
+[04Mar2025 02:09:40.443] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[04Mar2025 02:09:40.448] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[04Mar2025 02:09:40.449] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (a0b403ac-de00-40ca-85fd-fa5a486e710a)
+[04Mar2025 02:09:40.450] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[04Mar2025 02:09:40.450] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 02:09:40.451] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 02:09:40.451] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (6bab36f5-72d6-42be-a469-ae5006b2a69c)
+[04Mar2025 02:10:33.506] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9bd8e1e8-52d1-4206-ba22-a0b2a97f2239)
+[04Mar2025 02:11:06.844] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 02:11:08.824] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 02:11:09.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 02:11:09.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 02:12:18.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was skewered by Block and Chain Goblin
+[04Mar2025 02:12:24.043] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (ee221b08-fa17-454b-bc21-f31dc1fe9322)
+[04Mar2025 02:12:24.045] [Server thread/DEBUG] [twilightforest/]: Player SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1) respawned and received items held in storage
+[04Mar2025 02:12:35.108] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 02:12:56.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Redcap Sapper
+[04Mar2025 02:12:58.028] [Server thread/DEBUG] [twilightforest/]: Player foxytrapx (73cb5e8e-2c54-3163-9df1-c6784f0a47c6) respawned and received items held in storage
+[04Mar2025 02:13:14.397] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 02:13:14.409] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_shield)
+[04Mar2025 02:13:14.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved too quickly! -5229.3648802420785,-77.93050451123717,-2457.3990603757993
+[04Mar2025 02:13:15.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket lost connection: Disconnected
+[04Mar2025 02:13:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket left the game
+[04Mar2025 02:13:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket bled to death
+[04Mar2025 02:13:26.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx lost connection: Disconnected
+[04Mar2025 02:13:26.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx left the game
+[04Mar2025 02:14:44.335] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[04Mar2025 02:14:44.336] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[04Mar2025 02:14:44.336] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (a0b403ac-de00-40ca-85fd-fa5a486e710a)
+[04Mar2025 02:14:44.337] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[04Mar2025 02:14:44.337] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 02:14:44.337] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 02:14:53.995] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (6bab36f5-72d6-42be-a469-ae5006b2a69c)
+[04Mar2025 02:15:14.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver starved to death
+[04Mar2025 02:15:14.506] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 02:15:14.506] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 02:15:16.814] [Server thread/DEBUG] [twilightforest/]: Player LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127) respawned and received items held in storage
+[04Mar2025 02:15:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was slain by SulfurousLocket
+[04Mar2025 02:15:41.239] [Server thread/DEBUG] [twilightforest/]: Player LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127) respawned and received items held in storage
+[04Mar2025 02:15:49.561] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 02:16:09.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 02:16:09.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
