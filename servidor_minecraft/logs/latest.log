@@ -1307,3 +1307,5 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 19:37:29.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.256141419038684,0.0
 [04Mar2025 19:37:29.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.006141419038684,0.0
 [04Mar2025 19:37:57.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Teleported LuxSilver to -5967.500000, 6.500000, -2790.500000]
+[04Mar2025 19:47:46.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[04Mar2025 19:47:58.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has reached the goal [Worthy Equipment]
