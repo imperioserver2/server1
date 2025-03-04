@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "627b3782-d24f-356a-b10f-fe70da0cb127",
+    "name": "LuxSilver",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
