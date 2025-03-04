@@ -11007,3 +11007,61 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [03Mar2025 23:51:47.158] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
 [03Mar2025 23:51:49.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LuxSilver'/16559, l='ServerLevel[world]', x=-710.72, y=84.00, z=-318.65] died: LuxSilver was slain by avochvh
 [03Mar2025 23:52:24.909] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (ee221b08-fa17-454b-bc21-f31dc1fe9322)
+[03Mar2025 23:55:55.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 23:55:55.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 23:56:25.115] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[03Mar2025 23:57:08.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was doomed to fall by Creeper
+[03Mar2025 23:57:10.244] [Server thread/DEBUG] [twilightforest/]: Player avochvh (5fbf4cf5-6643-321b-a6e0-a494a9e3f5ad) respawned and received items held in storage
+[03Mar2025 23:57:30.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh fell from a high place
+[03Mar2025 23:57:31.889] [Server thread/DEBUG] [twilightforest/]: Player avochvh (5fbf4cf5-6643-321b-a6e0-a494a9e3f5ad) respawned and received items held in storage
+[03Mar2025 23:57:32.971] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[03Mar2025 23:57:32.971] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (ee221b08-fa17-454b-bc21-f31dc1fe9322)
+[03Mar2025 23:57:54.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was shot by Skeleton
+[03Mar2025 23:57:55.819] [Server thread/DEBUG] [twilightforest/]: Player foxytrapx (73cb5e8e-2c54-3163-9df1-c6784f0a47c6) respawned and received items held in storage
+[03Mar2025 23:58:00.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh tried to swim in lava to escape Skeleton
+[03Mar2025 23:58:01.742] [Server thread/DEBUG] [twilightforest/]: Player avochvh (5fbf4cf5-6643-321b-a6e0-a494a9e3f5ad) respawned and received items held in storage
+[03Mar2025 23:58:13.550] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[03Mar2025 23:58:13.551] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"single/basic_handle_material":"basic_handle/stick","single/basic_shovel_material":"basic_shovel/iron","single/handle":"single/basic_handle","single/head":"single/basic_shovel"})
+[03Mar2025 23:58:13.551] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:33,"single/basic_handle_material":"basic_handle/stick","single/basic_shovel_material":"basic_shovel/iron","single/handle":"single/basic_handle","single/head":"single/basic_shovel"})
+[03Mar2025 23:58:13.551] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:33,"single/basic_handle_material":"basic_handle/stick","single/basic_shovel_material":"basic_shovel/iron","single/handle":"single/basic_handle","single/head":"single/basic_shovel"})
+[03Mar2025 23:58:13.551] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[03Mar2025 23:58:13.551] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[03Mar2025 23:58:13.551] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:42,"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[03Mar2025 23:58:13.551] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:42,"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[03Mar2025 23:58:13.552] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/stone","double/basic_pickaxe_right_material":"basic_pickaxe/stone","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[03Mar2025 23:58:13.552] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:26,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/stone","double/basic_pickaxe_right_material":"basic_pickaxe/stone","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[03Mar2025 23:58:13.552] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:26,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/stone","double/basic_pickaxe_right_material":"basic_pickaxe/stone","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[03Mar2025 23:58:28.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh fell from a high place
+[03Mar2025 23:58:29.259] [Server thread/DEBUG] [twilightforest/]: Player avochvh (5fbf4cf5-6643-321b-a6e0-a494a9e3f5ad) respawned and received items held in storage
+[03Mar2025 23:59:30.303] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_shield)
+[03Mar2025 23:59:30.304] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"shield/basic_grip_material":"basic_grip/iron","shield/grip":"shield/basic_grip","shield/plate":"shield/tower","shield/plate:shield/studs/iron":0,"shield/plate:shield/trim/iron":0,"shield/tower_material":"tower/oak"})
+[03Mar2025 23:59:30.304] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:99,"shield/basic_grip_material":"basic_grip/iron","shield/grip":"shield/basic_grip","shield/plate":"shield/tower","shield/plate:shield/studs/iron":0,"shield/plate:shield/trim/iron":0,"shield/tower_material":"tower/oak"})
+[03Mar2025 23:59:30.304] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:99,"shield/basic_grip_material":"basic_grip/iron","shield/grip":"shield/basic_grip","shield/plate":"shield/tower","shield/plate:shield/studs/iron":0,"shield/plate:shield/trim/iron":0,"shield/tower_material":"tower/oak"})
+[04Mar2025 00:00:12.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has made the advancement [Diamonds!]
+[04Mar2025 00:00:51.494] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[04Mar2025 00:00:51.499] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[04Mar2025 00:00:51.506] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[04Mar2025 00:00:51.558] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[04Mar2025 00:00:54.689] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for foxytrapx at BlockPos{x=-5969, y=4, z=-2793}
+[04Mar2025 00:00:54.934] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:00:54.946] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 00:00:54.946] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-737, y=82, z=-335}
+[04Mar2025 00:00:54.946] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:00:54.946] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-738, y=82, z=-335}
+[04Mar2025 00:00:54.946] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-738, y=82, z=-336}
+[04Mar2025 00:00:56.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4934ms or 98 ticks behind
+[04Mar2025 00:00:58.038] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$HutType
+[04Mar2025 00:00:58.047] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/WoodPalette$WoodShapes
+[04Mar2025 00:00:59.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 00:00:59.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 00:02:16.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[04Mar2025 00:02:16.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['avochvh'/29285, l='ServerLevel[world]', x=-736.34, y=66.00, z=-309.34] died: avochvh was slain by avochvh
+[04Mar2025 00:02:18.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['avochvh'/28712, l='ServerLevel[world]', x=-736.37, y=66.77, z=-310.89] died: avochvh was slain by avochvh
+[04Mar2025 00:02:20.456] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['avochvh'/29371, l='ServerLevel[world]', x=-732.74, y=68.25, z=-310.58] died: avochvh was blown up by Creeper
+[04Mar2025 00:02:58.595] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/HugeMushroomUtil$HugeMushroomType
+[04Mar2025 00:03:06.013] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[04Mar2025 00:03:48.056] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/27549, l='ServerLevel[world]', x=-702.59, y=79.25, z=-365.35] died: Honeyed Archer suffocated in a wall
+[04Mar2025 00:04:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Best Friends Forever]
+[04Mar2025 00:04:48.991] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 00:04:49.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: avochvh moved too quickly! -5229.940565939097,-77.93050451123717,-2457.454273332534
+[04Mar2025 00:05:20.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [The Silence of the Forest]

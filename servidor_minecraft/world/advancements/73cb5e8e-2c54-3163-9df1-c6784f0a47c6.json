@@ -2099,6 +2099,7 @@
       "tropical_fish": "2025-03-03 19:01:23 +0000",
       "mutton": "2025-03-03 21:23:55 +0000",
       "bread": "2025-03-03 21:31:03 +0000",
+      "rotten_flesh": "2025-03-03 23:52:39 +0000",
       "glow_berries": "2025-03-03 18:07:13 +0000",
       "melon_slice": "2025-03-03 17:50:31 +0000"
     },
@@ -2504,6 +2505,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-03 18:40:08 +0000",
       "minecraft:spider": "2025-03-03 18:04:08 +0000",
+      "minecraft:creeper": "2025-03-03 23:54:15 +0000",
+      "minecraft:husk": "2025-03-03 23:52:20 +0000",
       "minecraft:zombie": "2025-03-03 18:54:55 +0000"
     },
     "done": false
@@ -4729,6 +4732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-03 23:52:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -4747,9 +4756,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-03 23:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-03-03 23:53:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-03-03 23:57:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-03-04 00:00:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-03 23:53:55 +0000"
     },
     "done": true
   },
