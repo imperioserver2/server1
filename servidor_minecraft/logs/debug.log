@@ -12648,3 +12648,28 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 00:55:48.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [I Can See Forever]
 [04Mar2025 00:56:07.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Mar2025 00:56:07.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 01:00:12.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Isn't It Iron Pick]
+[04Mar2025 01:00:34.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [The Boots Are Mine!]
+[04Mar2025 01:00:54.976] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[04Mar2025 01:01:07.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 01:01:07.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 01:01:26.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has made the advancement [Penteconter]
+[04Mar2025 01:01:48.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [Diamonds!]
+[04Mar2025 01:02:01.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket suffocated in a wall
+[04Mar2025 01:02:04.040] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (ee221b08-fa17-454b-bc21-f31dc1fe9322)
+[04Mar2025 01:02:04.042] [Server thread/DEBUG] [twilightforest/]: Player SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1) respawned and received items held in storage
+[04Mar2025 01:02:10.135] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 01:02:10.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5229.8960940847865,-77.92159999847412,-2457.297900826261
+[04Mar2025 01:03:46.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Cover Me with Diamonds]
+[04Mar2025 01:04:38.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [Far From Perfect]
+[04Mar2025 01:04:57.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <foxytrapx> alo?
+[04Mar2025 01:06:07.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 01:06:07.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 01:11:07.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 01:11:07.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 01:12:15.114] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/ai/goal/NagaMovementPattern$MovementState
+[04Mar2025 01:14:49.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has reached the goal [Time To Even The Scales]
+[04Mar2025 01:14:49.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has reached the goal [Time To Even The Scales]
+[04Mar2025 01:14:49.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has reached the goal [Time To Even The Scales]
+[04Mar2025 01:16:07.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 01:16:07.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

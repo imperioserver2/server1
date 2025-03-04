@@ -4649,6 +4649,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-03-04 00:08:24 +0000",
+      "twilight_oak_sign": "2025-03-04 01:03:52 +0000",
       "canopy_planks": "2025-03-04 00:45:14 +0000",
       "twilight_oak_log": "2025-03-04 00:08:21 +0000",
       "twilight_oak_sapling": "2025-03-04 00:08:28 +0000",
@@ -4659,6 +4660,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-03-04 00:59:34 +0000"
     },
     "done": true
   },
@@ -4704,6 +4711,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-03-04 01:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -4728,9 +4741,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-04 01:00:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-03-03 23:24:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-04 01:00:06 +0000"
     },
     "done": true
   },
@@ -4788,6 +4813,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-03-04 01:14:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-03-03 23:30:36 +0000"
@@ -4812,6 +4843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-04 00:59:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -4827,6 +4864,12 @@
   "twilightforest:magic_map_focus": {
     "criteria": {
       "focus": "2025-03-04 00:46:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-03-04 01:14:49 +0000"
     },
     "done": true
   },
@@ -4851,6 +4894,12 @@
   "twilightforest:recipes/decorations/wood/canopy_chest": {
     "criteria": {
       "has_item": "2025-03-04 00:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-04 00:57:18 +0000"
     },
     "done": true
   },
@@ -4890,6 +4939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-04 00:59:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2025-03-04 00:02:24 +0000"
@@ -4899,6 +4954,12 @@
   "twilightforest:recipes/redstone/wood/canopy_plate": {
     "criteria": {
       "has_item": "2025-03-04 00:45:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-03-04 01:00:06 +0000"
     },
     "done": true
   },
@@ -4932,9 +4993,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-04 01:15:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
     "criteria": {
       "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-04 01:03:25 +0000"
     },
     "done": true
   },
@@ -4944,9 +5017,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-04 01:00:12 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_orange": {
     "criteria": {
       "has_orange_wool": "2025-03-04 00:31:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-03-04 01:00:34 +0000"
     },
     "done": true
   },
@@ -4992,6 +5077,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-04 01:00:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-03-04 00:45:51 +0000"
@@ -5007,6 +5098,12 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
       "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-03-04 01:00:06 +0000"
     },
     "done": true
   },
@@ -5028,6 +5125,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/fermenting/beer_from_water": {
+    "criteria": {
+      "has_wheat": "2025-03-04 01:00:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -5046,6 +5149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-04 00:59:34 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_magenta_wool": "2025-03-04 00:31:23 +0000"
@@ -5055,6 +5164,18 @@
   "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-03 23:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-04 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-03-04 01:00:06 +0000"
     },
     "done": true
   },
@@ -5130,6 +5251,24 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-03-04 01:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-04 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-03-04 01:09:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -5142,6 +5281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-04 00:59:34 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/canopy_bookshelf": {
     "criteria": {
       "has_item": "2025-03-04 00:45:14 +0000"
@@ -5151,6 +5296,12 @@
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2025-03-04 00:02:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-03-04 01:03:46 +0000"
     },
     "done": true
   },
@@ -5199,6 +5350,12 @@
   "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
     "criteria": {
       "has_item": "2025-03-04 00:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-03-04 00:59:34 +0000"
     },
     "done": true
   },
@@ -5268,6 +5425,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-03-04 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-03-04 00:59:34 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_lime": {
     "criteria": {
       "has_lime_wool": "2025-03-04 00:02:24 +0000"
@@ -5331,6 +5500,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_yellow_wool": "2025-03-04 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-03-04 01:07:05 +0000"
     },
     "done": true
   },
