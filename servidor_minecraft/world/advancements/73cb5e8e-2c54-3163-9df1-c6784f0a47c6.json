@@ -5758,6 +5758,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-03-04 20:34:32 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2025-03-04 19:54:38 +0000"
@@ -5926,6 +5932,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-04 20:40:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/knightmetal_sword": {
     "criteria": {
       "has_item": "2025-03-04 18:56:04 +0000"
@@ -5980,9 +5992,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-04 20:40:44 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
     "criteria": {
       "has_item": "2025-03-04 19:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-03-04 20:36:48 +0000"
     },
     "done": true
   },

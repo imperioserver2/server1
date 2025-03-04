@@ -1328,3 +1328,9 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 20:22:42.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has reached the goal [Time To Even The Scales]
 [04Mar2025 20:22:42.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has reached the goal [Time To Even The Scales]
 [04Mar2025 20:27:27.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [Adaptive Protection]
+[04Mar2025 20:32:19.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katze5O5 lost connection: Disconnected
+[04Mar2025 20:32:19.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 left the game
+[04Mar2025 20:34:32.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has reached the goal [Flawless Crystals]
+[04Mar2025 20:34:56.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[04Mar2025 20:36:43.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[04Mar2025 20:41:22.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
