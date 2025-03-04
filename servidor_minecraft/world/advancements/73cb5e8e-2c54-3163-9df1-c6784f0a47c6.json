@@ -5752,9 +5752,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-04 19:54:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-03-04 19:54:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/equipment/knightmetal_pickaxe": {
     "criteria": {
       "has_item": "2025-03-04 18:56:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-04 19:54:38 +0000"
     },
     "done": true
   },
@@ -5770,9 +5788,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-03-04 19:54:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/knightmetal_boots": {
     "criteria": {
       "has_item": "2025-03-04 18:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-04 19:54:38 +0000"
     },
     "done": true
   },
@@ -5803,6 +5833,12 @@
   "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
     "criteria": {
       "has_item": "2025-03-04 19:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-04 19:54:38 +0000"
     },
     "done": true
   },
@@ -5854,6 +5890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-04 19:54:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/knightmetal_sword": {
     "criteria": {
       "has_item": "2025-03-04 18:56:04 +0000"
@@ -5863,6 +5905,12 @@
   "twilightforest:recipes/combat/equipment/knightmetal_shield": {
     "criteria": {
       "has_ingot": "2025-03-04 18:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-04 19:54:38 +0000"
     },
     "done": true
   },
@@ -5896,9 +5944,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-04 19:54:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
     "criteria": {
       "has_item": "2025-03-04 19:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-04 19:54:38 +0000"
     },
     "done": true
   },
