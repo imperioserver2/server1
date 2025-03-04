@@ -1334,3 +1334,6 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 20:34:56.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
 [04Mar2025 20:36:43.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
 [04Mar2025 20:41:22.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[04Mar2025 20:42:09.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Far From Perfect]
+[04Mar2025 20:44:15.272] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[04Mar2025 20:47:23.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch

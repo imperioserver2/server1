@@ -5746,6 +5746,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
     "criteria": {
       "has_item": "2025-03-04 18:59:01 +0000"
@@ -5776,9 +5782,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2025-03-04 19:54:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
     },
     "done": true
   },
@@ -5800,9 +5824,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-04 20:47:17 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/knightmetal_boots": {
     "criteria": {
       "has_item": "2025-03-04 18:56:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-03-04 20:50:09 +0000"
     },
     "done": true
   },
@@ -5821,6 +5863,60 @@
   "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
     "criteria": {
       "has_item": "2025-03-04 19:18:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-04 20:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-03-04 20:46:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
     },
     "done": true
   },
@@ -5866,6 +5962,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/mossy_underbrick": {
     "criteria": {
       "has_item": "2025-03-04 18:59:01 +0000"
@@ -5878,15 +5986,33 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_smelting_upgrade_from_backpack_smelting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-03-04 20:50:09 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
     "criteria": {
       "has_item": "2025-03-04 19:18:00 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/knightmetal_leggings": {
     "criteria": {
       "has_item": "2025-03-04 18:56:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
     },
     "done": true
   },
@@ -5902,9 +6028,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-03-04 20:50:09 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/block_and_chain": {
     "criteria": {
       "has_ingot": "2025-03-04 18:56:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
     },
     "done": true
   },
@@ -5938,15 +6082,51 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/knightmetal_sword": {
     "criteria": {
       "has_item": "2025-03-04 18:56:04 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/knightmetal_shield": {
     "criteria": {
       "has_ingot": "2025-03-04 18:56:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
     },
     "done": true
   },
@@ -5968,9 +6148,45 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2025-03-04 18:58:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-03-04 20:50:09 +0000"
     },
     "done": true
   },
@@ -5992,9 +6208,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-03-04 20:40:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
     },
     "done": true
   },
@@ -6004,9 +6238,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-04 20:48:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-03-04 20:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-04 20:46:36 +0000"
     },
     "done": true
   },

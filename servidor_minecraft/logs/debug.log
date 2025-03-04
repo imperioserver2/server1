@@ -9222,3 +9222,47 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 20:41:22.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
 [04Mar2025 20:41:36.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Mar2025 20:41:36.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 20:41:52.920] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4ad248d5-4719-4b2e-aa88-7296a59d9d97)
+[04Mar2025 20:41:52.922] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (4ad248d5-4719-4b2e-aa88-7296a59d9d97)
+[04Mar2025 20:41:52.969] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4ad248d5-4719-4b2e-aa88-7296a59d9d97)
+[04Mar2025 20:42:09.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Far From Perfect]
+[04Mar2025 20:44:15.272] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[04Mar2025 20:44:22.528] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 20:44:25.510] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4ad248d5-4719-4b2e-aa88-7296a59d9d97)
+[04Mar2025 20:44:25.518] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[04Mar2025 20:44:56.437] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (746620c9-ed63-4dc6-9de8-8f8dd523cd87)
+[04Mar2025 20:44:56.437] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (746620c9-ed63-4dc6-9de8-8f8dd523cd87)
+[04Mar2025 20:44:56.438] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (746620c9-ed63-4dc6-9de8-8f8dd523cd87)
+[04Mar2025 20:44:56.468] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (746620c9-ed63-4dc6-9de8-8f8dd523cd87)
+[04Mar2025 20:44:59.172] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (994d7810-bcac-45e5-9225-46fd544002db)
+[04Mar2025 20:44:59.173] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[04Mar2025 20:44:59.173] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 20:44:59.174] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 20:45:31.766] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9503de92-046c-4d61-8afe-8c0d71c6afae)
+[04Mar2025 20:45:31.769] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[04Mar2025 20:45:31.769] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9bd8e1e8-52d1-4206-ba22-a0b2a97f2239)
+[04Mar2025 20:45:31.770] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (393e5482-7920-49bd-9055-24999cbf6977)
+[04Mar2025 20:46:06.367] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 20:46:07.567] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 20:46:36.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 20:46:36.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 20:47:23.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[04Mar2025 20:49:33.168] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[04Mar2025 20:50:04.968] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (994d7810-bcac-45e5-9225-46fd544002db)
+[04Mar2025 20:50:04.968] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[04Mar2025 20:50:04.969] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 20:50:04.970] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 20:50:04.970] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (746620c9-ed63-4dc6-9de8-8f8dd523cd87)
+[04Mar2025 20:50:27.468] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (746620c9-ed63-4dc6-9de8-8f8dd523cd87)
+[04Mar2025 20:50:27.468] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (746620c9-ed63-4dc6-9de8-8f8dd523cd87)
+[04Mar2025 20:50:27.469] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (746620c9-ed63-4dc6-9de8-8f8dd523cd87)
+[04Mar2025 20:50:33.418] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_shield)
+[04Mar2025 20:50:33.919] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 20:50:38.749] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9503de92-046c-4d61-8afe-8c0d71c6afae)
+[04Mar2025 20:50:38.751] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[04Mar2025 20:50:38.751] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9bd8e1e8-52d1-4206-ba22-a0b2a97f2239)
+[04Mar2025 20:50:38.752] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (393e5482-7920-49bd-9055-24999cbf6977)
+[04Mar2025 20:51:06.368] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 20:51:07.666] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 20:51:36.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 20:51:36.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

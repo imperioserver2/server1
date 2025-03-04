@@ -5221,6 +5221,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-03-04 20:42:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-03-04 19:49:14 +0000"
@@ -5293,6 +5299,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_auto_smelting_upgrade_from_backpack_auto_smelting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-03-04 20:47:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-03-04 20:32:26 +0000"
@@ -5311,9 +5323,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-03-04 20:47:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-03-04 19:28:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-03-04 20:47:08 +0000"
     },
     "done": true
   },
