@@ -123,3 +123,29 @@
 [04Mar2025 01:42:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Close Quarters]
 [04Mar2025 01:44:49.456] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/154207, l='ServerLevel[world]', x=-714.35, y=83.85, z=-383.65] died: Honeyed Archer suffocated in a wall
 [04Mar2025 01:46:35.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Bug Stomper]
+[04Mar2025 01:48:00.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [Bug Stomper]
+[04Mar2025 01:49:03.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [Penteconter]
+[04Mar2025 01:50:06.723] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/154053, l='ServerLevel[world]', x=-726.75, y=87.00, z=-361.72] died: SulfurousLocket was slain by LuxSilver
+[04Mar2025 01:51:11.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-736, y=83, z=-336} BlockPos{x=-735, y=83, z=-336}
+[04Mar2025 01:51:11.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-736, y=83, z=-335} BlockPos{x=-735, y=83, z=-336}
+[04Mar2025 01:51:16.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.256141419038684,0.0
+[04Mar2025 01:51:16.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.256141419038684,0.0
+[04Mar2025 01:51:16.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.256141419038684,0.0
+[04Mar2025 01:51:16.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.256141419038684,0.0
+[04Mar2025 01:51:16.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.006141419038684,0.0
+[04Mar2025 01:51:16.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.256141419038684,0.0
+[04Mar2025 01:51:16.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.006141419038684,0.0
+[04Mar2025 01:51:16.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,20.756141419038684,0.0
+[04Mar2025 01:51:16.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,20.506141419038684,0.0
+[04Mar2025 01:51:16.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,20.506141419038684,0.0
+[04Mar2025 01:54:06.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [The Silence of the Forest]
+[04Mar2025 01:55:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has reached the goal [Trophied Champion]
+[04Mar2025 01:55:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has reached the goal [Trophied Champion]
+[04Mar2025 01:55:54.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has reached the goal [Trophied Champion]
+[04Mar2025 01:56:28.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has reached the goal [Flawless Crystals]
+[04Mar2025 01:57:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has completed the challenge [Gallons of Blood and Tears]
+[04Mar2025 02:05:43.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Helmet Crab
+[04Mar2025 02:05:45.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Helmet Crab
+[04Mar2025 02:05:51.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5230.077695006899,-77.82321143446856,-2457.7825623978165
+[04Mar2025 02:06:33.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Block and Chain Goblin
+[04Mar2025 02:06:48.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!

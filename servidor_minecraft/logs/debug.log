@@ -14852,3 +14852,110 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 01:46:08.620] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
 [04Mar2025 01:46:21.105] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9bd8e1e8-52d1-4206-ba22-a0b2a97f2239)
 [04Mar2025 01:46:35.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Bug Stomper]
+[04Mar2025 01:47:57.467] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (a0b403ac-de00-40ca-85fd-fa5a486e710a)
+[04Mar2025 01:47:57.468] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (a0b403ac-de00-40ca-85fd-fa5a486e710a)
+[04Mar2025 01:47:57.468] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (a0b403ac-de00-40ca-85fd-fa5a486e710a)
+[04Mar2025 01:48:00.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [Bug Stomper]
+[04Mar2025 01:48:55.054] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 01:48:55.054] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 01:48:55.054] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[04Mar2025 01:48:55.055] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:125,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[04Mar2025 01:48:55.055] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:125,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[04Mar2025 01:48:55.055] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (6bab36f5-72d6-42be-a469-ae5006b2a69c)
+[04Mar2025 01:48:55.055] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (9bd8e1e8-52d1-4206-ba22-a0b2a97f2239)
+[04Mar2025 01:48:55.055] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[04Mar2025 01:48:55.055] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:351,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[04Mar2025 01:48:55.056] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:351,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[04Mar2025 01:49:03.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [Penteconter]
+[04Mar2025 01:49:53.766] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 01:49:53.766] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 01:50:06.723] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/154053, l='ServerLevel[world]', x=-726.75, y=87.00, z=-361.72] died: SulfurousLocket was slain by LuxSilver
+[04Mar2025 01:51:06.744] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 01:51:06.745] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 01:51:06.871] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_shield)
+[04Mar2025 01:51:07.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 01:51:07.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 01:51:08.421] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[04Mar2025 01:51:08.632] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 01:51:08.758] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 01:51:11.126] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 01:51:11.411] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[04Mar2025 01:51:11.412] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[04Mar2025 01:51:11.412] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (6bab36f5-72d6-42be-a469-ae5006b2a69c)
+[04Mar2025 01:51:11.412] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (a0b403ac-de00-40ca-85fd-fa5a486e710a)
+[04Mar2025 01:51:11.412] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 01:51:11.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-736, y=83, z=-336} BlockPos{x=-735, y=83, z=-336}
+[04Mar2025 01:51:11.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-736, y=83, z=-335} BlockPos{x=-735, y=83, z=-336}
+[04Mar2025 01:51:16.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.256141419038684,0.0
+[04Mar2025 01:51:16.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.256141419038684,0.0
+[04Mar2025 01:51:16.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.256141419038684,0.0
+[04Mar2025 01:51:16.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.256141419038684,0.0
+[04Mar2025 01:51:16.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.006141419038684,0.0
+[04Mar2025 01:51:16.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.256141419038684,0.0
+[04Mar2025 01:51:16.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,21.006141419038684,0.0
+[04Mar2025 01:51:16.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,20.756141419038684,0.0
+[04Mar2025 01:51:16.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,20.506141419038684,0.0
+[04Mar2025 01:51:16.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,20.506141419038684,0.0
+[04Mar2025 01:54:04.820] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 01:54:04.821] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 01:54:04.821] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 01:54:06.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [The Silence of the Forest]
+[04Mar2025 01:54:29.279] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9bd8e1e8-52d1-4206-ba22-a0b2a97f2239)
+[04Mar2025 01:54:40.787] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 01:54:53.986] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 01:54:53.986] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 01:55:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has reached the goal [Trophied Champion]
+[04Mar2025 01:55:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has reached the goal [Trophied Champion]
+[04Mar2025 01:55:54.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has reached the goal [Trophied Champion]
+[04Mar2025 01:56:06.759] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 01:56:07.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 01:56:07.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 01:56:08.712] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 01:56:10.821] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[04Mar2025 01:56:10.822] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 01:56:14.168] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[04Mar2025 01:56:14.168] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[04Mar2025 01:56:28.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has reached the goal [Flawless Crystals]
+[04Mar2025 01:56:46.420] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (6bab36f5-72d6-42be-a469-ae5006b2a69c)
+[04Mar2025 01:56:57.757] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (a0b403ac-de00-40ca-85fd-fa5a486e710a)
+[04Mar2025 01:56:57.758] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 01:57:32.537] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_shield)
+[04Mar2025 01:57:32.592] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 01:57:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has completed the challenge [Gallons of Blood and Tears]
+[04Mar2025 01:59:59.466] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9bd8e1e8-52d1-4206-ba22-a0b2a97f2239)
+[04Mar2025 02:01:05.024] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 02:01:05.024] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 02:01:05.025] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 02:01:06.795] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 02:01:07.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 02:01:07.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 02:01:08.725] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 02:02:54.324] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_shield)
+[04Mar2025 02:02:54.324] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 02:03:56.270] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[04Mar2025 02:03:56.274] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[04Mar2025 02:03:56.275] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (a0b403ac-de00-40ca-85fd-fa5a486e710a)
+[04Mar2025 02:03:56.276] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[04Mar2025 02:03:56.276] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 02:03:56.276] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 02:03:56.277] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (6bab36f5-72d6-42be-a469-ae5006b2a69c)
+[04Mar2025 02:05:29.687] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9bd8e1e8-52d1-4206-ba22-a0b2a97f2239)
+[04Mar2025 02:05:43.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Helmet Crab
+[04Mar2025 02:05:45.334] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (ee221b08-fa17-454b-bc21-f31dc1fe9322)
+[04Mar2025 02:05:45.337] [Server thread/DEBUG] [twilightforest/]: Player SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1) respawned and received items held in storage
+[04Mar2025 02:05:45.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh was slain by Helmet Crab
+[04Mar2025 02:05:46.979] [Server thread/DEBUG] [twilightforest/]: Player avochvh (5fbf4cf5-6643-321b-a6e0-a494a9e3f5ad) respawned and received items held in storage
+[04Mar2025 02:05:51.292] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 02:05:51.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5230.077695006899,-77.82321143446856,-2457.7825623978165
+[04Mar2025 02:05:53.028] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 02:06:06.826] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 02:06:07.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 02:06:07.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 02:06:08.765] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 02:06:29.077] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 02:06:29.078] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 02:06:29.078] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 02:06:33.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was slain by Block and Chain Goblin
+[04Mar2025 02:06:38.492] [Server thread/DEBUG] [twilightforest/]: Player foxytrapx (73cb5e8e-2c54-3163-9df1-c6784f0a47c6) respawned and received items held in storage
+[04Mar2025 02:06:48.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[04Mar2025 02:06:52.330] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}

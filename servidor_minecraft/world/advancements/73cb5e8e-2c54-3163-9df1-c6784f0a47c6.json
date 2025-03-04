@@ -2107,7 +2107,8 @@
       "glow_berries": "2025-03-03 18:07:13 +0000",
       "melon_slice": "2025-03-03 17:50:31 +0000",
       "cooked_chicken": "2025-03-04 00:33:04 +0000",
-      "mushroom_stew": "2025-03-04 00:10:13 +0000"
+      "mushroom_stew": "2025-03-04 00:10:13 +0000",
+      "cod": "2025-03-04 02:05:25 +0000"
     },
     "done": false
   },
@@ -4638,6 +4639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-04 02:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -4682,6 +4689,12 @@
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2025-03-04 00:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 01:57:01 +0000"
     },
     "done": true
   },
@@ -4733,6 +4746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-04 01:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -4748,6 +4767,12 @@
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_brown_wool": "2025-03-04 00:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-04 01:57:01 +0000"
     },
     "done": true
   },
@@ -4860,9 +4885,21 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-03-04 01:55:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_magenta_wool": "2025-03-04 00:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 01:57:01 +0000"
     },
     "done": true
   },
@@ -4992,6 +5029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-04 01:57:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-03-04 01:00:06 +0000"
@@ -5058,6 +5101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-04 01:57:01 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:kill_yourself": {
     "criteria": {
       "kill_yourself": "2025-03-04 01:29:14 +0000"
@@ -5079,6 +5128,12 @@
   "twilightforest:hill1": {
     "criteria": {
       "redcap": "2025-03-04 01:00:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2025-03-04 02:03:11 +0000"
     },
     "done": true
   },
@@ -5120,9 +5175,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-03-04 01:37:19 +0000"
+      "kill_lich": "2025-03-04 01:37:19 +0000",
+      "trophy_pedestal": "2025-03-04 01:55:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
@@ -5244,9 +5300,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-03-04 01:57:01 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-03 23:30:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-03-04 01:56:48 +0000"
     },
     "done": true
   },
@@ -5424,6 +5492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-04 01:57:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
     "criteria": {
       "has_item": "2025-03-04 00:08:24 +0000"
@@ -5508,6 +5582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-04 02:05:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-03-04 00:11:15 +0000"
@@ -5568,15 +5648,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-03-04 01:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2025-03-04 00:10:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-04 02:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-03-03 23:53:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2025-03-04 01:55:10 +0000"
     },
     "done": true
   },
@@ -5592,6 +5690,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-03-04 02:00:43 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-03-04 00:00:38 +0000"
@@ -5601,6 +5705,12 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
     "criteria": {
       "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-04 01:57:01 +0000"
     },
     "done": true
   },
@@ -5643,6 +5753,12 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-03-04 01:19:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2025-03-04 01:46:35 +0000"
     },
     "done": true
   },
