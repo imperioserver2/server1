@@ -167,3 +167,6 @@
 [04Mar2025 02:13:26.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx left the game
 [04Mar2025 02:15:14.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver starved to death
 [04Mar2025 02:15:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was slain by SulfurousLocket
+[04Mar2025 02:18:31.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5872, y=5, z=-2761} BlockPos{x=-5874, y=5, z=-2761}
+[04Mar2025 02:18:31.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5873, y=5, z=-2760} BlockPos{x=-5872, y=4, z=-2761}
+[04Mar2025 02:23:53.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Disme A Dozen]
