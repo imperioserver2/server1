@@ -1337,3 +1337,19 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 20:42:09.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Far From Perfect]
 [04Mar2025 20:44:15.272] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
 [04Mar2025 20:47:23.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[04Mar2025 20:52:41.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Simple Utilities]
+[04Mar2025 20:53:36.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[04Mar2025 20:55:23.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx lost connection: Disconnected
+[04Mar2025 20:55:23.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx left the game
+[04Mar2025 20:55:40.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: foxytrapx[/127.221.218.87:34241] logged in with entity id 39632 at (-5864.207647623569, 15.0, -3838.2115410684437)
+[04Mar2025 20:55:40.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx joined the game
+[04Mar2025 20:55:40.814] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: foxytrapx
+[04Mar2025 20:55:40.824] [Server thread/INFO] [Jade/]: Syncing config to foxytrapx (73cb5e8e-2c54-3163-9df1-c6784f0a47c6)
+[04Mar2025 20:58:15.122] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[04Mar2025 20:58:44.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver fell from a high place
+[04Mar2025 20:59:17.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx was at a loss for words after being killed by Death Tome
+[04Mar2025 20:59:19.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver moved too quickly! -5229.806684976589,-77.92159999847412,-2457.6259987418593
+[04Mar2025 21:00:09.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx lost connection: Disconnected
+[04Mar2025 21:00:09.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx left the game
+[04Mar2025 21:00:09.222] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Mar2025 21:01:24.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/41804, l='ServerLevel[world]', x=-6003.00, y=6.00, z=-2906.51] died: SulfurousLocket was slain by LuxSilver

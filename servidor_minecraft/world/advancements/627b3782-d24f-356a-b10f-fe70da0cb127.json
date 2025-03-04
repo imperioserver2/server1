@@ -5155,6 +5155,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-03-04 21:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-03-04 21:00:37 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2025-03-04 19:34:11 +0000"
@@ -5164,6 +5176,12 @@
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-03-04 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/toolbelt": {
+    "criteria": {
+      "toolbelt": "2025-03-04 20:52:41 +0000"
     },
     "done": true
   },
@@ -5221,6 +5239,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_orange_wool": "2025-03-04 21:00:37 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2025-03-04 20:42:09 +0000"
@@ -5233,6 +5257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-03-04 21:00:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-03-04 20:32:26 +0000"
@@ -5242,6 +5272,12 @@
   "twilightforest:recipes/misc/naga_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-03-04 20:23:13 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_orange_wool": "2025-03-04 21:00:37 +0000"
     },
     "done": true
   },
