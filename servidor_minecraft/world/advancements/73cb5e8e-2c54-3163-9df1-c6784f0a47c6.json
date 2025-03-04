@@ -4649,8 +4649,10 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-03-04 00:08:24 +0000",
+      "canopy_planks": "2025-03-04 00:45:14 +0000",
       "twilight_oak_log": "2025-03-04 00:08:21 +0000",
-      "twilight_oak_sapling": "2025-03-04 00:08:28 +0000"
+      "twilight_oak_sapling": "2025-03-04 00:08:28 +0000",
+      "canopy_log": "2025-03-04 00:45:12 +0000"
     },
     "done": false
   },
@@ -4672,6 +4674,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/canopy_sign": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:14 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
     "criteria": {
       "has_item": "2025-03-04 00:08:24 +0000"
@@ -4687,6 +4695,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-03-03 23:34:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_fence": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:14 +0000"
     },
     "done": true
   },
@@ -4743,6 +4757,12 @@
       "comfort": "2025-03-04 00:10:13 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-03-04 00:49:31 +0000"
+    },
+    "done": false
   },
   "aether:recipes/combat/yellow_cape": {
     "criteria": {
@@ -4804,6 +4824,12 @@
     },
     "done": true
   },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-03-04 00:46:32 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -4822,9 +4848,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/canopy_chest": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-03 23:30:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_button": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-04 00:45:51 +0000"
     },
     "done": true
   },
@@ -4846,6 +4896,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/canopy_plate": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2025-03-04 00:31:26 +0000"
@@ -4855,6 +4911,12 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_door": {
     "criteria": {
       "has_item": "2025-03-04 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-03-04 00:46:32 +0000"
     },
     "done": true
   },
@@ -4924,6 +4986,18 @@
     },
     "done": true
   },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-03-04 00:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-04 00:45:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-03-04 00:31:27 +0000"
@@ -4939,6 +5013,12 @@
   "lost_aether_content:recipes/incubation/brown_moa_incubation": {
     "criteria": {
       "has_brown_moa_egg": "2025-03-03 23:26:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_slab": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:14 +0000"
     },
     "done": true
   },
@@ -4996,6 +5076,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/canopy_gate": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-03 23:52:11 +0000"
@@ -5038,6 +5124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-04 00:43:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -5050,9 +5142,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/canopy_bookshelf": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2025-03-04 00:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-04 00:43:29 +0000"
     },
     "done": true
   },
@@ -5092,15 +5196,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-03-03 23:41:49 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/canopy_door": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:14 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_lime_wool": "2025-03-04 00:02:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-03-04 00:41:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:12 +0000"
     },
     "done": true
   },
@@ -5113,6 +5241,18 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-03-04 00:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-04 00:45:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_trapdoor": {
+    "criteria": {
+      "has_item": "2025-03-04 00:45:14 +0000"
     },
     "done": true
   },

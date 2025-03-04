@@ -3352,6 +3352,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-03-04 00:43:32 +0000",
       "opened_chest": "2025-03-03 18:26:45 +0000"
     },
     "done": false
@@ -3983,7 +3984,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-03-03 20:12:18 +0000"
+      "minecraft:crimson_forest": "2025-03-03 20:12:18 +0000",
+      "minecraft:nether_wastes": "2025-03-04 00:46:50 +0000"
     },
     "done": false
   },
@@ -4911,8 +4913,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 00:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 00:50:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2025-03-04 00:55:39 +0000",
+      "twilight_oak_sign": "2025-03-04 00:55:39 +0000",
       "canopy_log": "2025-03-04 00:38:47 +0000"
     },
     "done": false
@@ -4923,15 +4939,129 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-03-04 00:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-04 00:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-03-04 00:31:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-04 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/misc/tankard": {
+    "criteria": {
+      "has_nugget": "2025-03-04 00:43:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-03-04 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-04 00:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-04 00:47:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-03-04 00:41:44 +0000"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/decorations/copper_cup": {
+    "criteria": {
+      "has_copper": "2025-03-04 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-03-04 00:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-04 00:47:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-03-04 00:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-04 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-04 00:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 00:50:32 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/copper_carrot": {
+    "criteria": {
+      "has_copper": "2025-03-04 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-04 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-03-04 00:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 00:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 00:50:32 +0000"
     },
     "done": true
   },
@@ -4944,6 +5074,30 @@
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2025-03-04 00:31:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-03-04 00:55:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-03-04 00:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-04 00:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-04 00:43:36 +0000"
     },
     "done": true
   },
@@ -4965,9 +5119,51 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-03-04 00:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-04 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 00:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-03-04 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 00:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 00:50:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-03-04 00:55:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-03-04 00:55:39 +0000"
     },
     "done": true
   },
@@ -4977,15 +5173,63 @@
     },
     "done": true
   },
+  "miners_delight:recipes/decorations/copper_pot": {
+    "criteria": {
+      "has_copper": "2025-03-04 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-04 00:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-04 00:47:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-03-04 00:31:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 00:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 00:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 00:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-03-04 00:30:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-03-04 00:55:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-03-04 00:55:39 +0000"
     },
     "done": true
   },
@@ -5010,6 +5254,12 @@
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-03-04 00:27:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-03-04 00:55:39 +0000"
     },
     "done": true
   },

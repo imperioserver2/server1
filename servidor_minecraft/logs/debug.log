@@ -12605,3 +12605,46 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 00:44:34.263] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d4f664d6-2a9e-4a84-8138-038ceb1ce044)
 [04Mar2025 00:44:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement ['X' Marks the Spot]
 [04Mar2025 00:44:38.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [Not a Diamond]
+[04Mar2025 00:46:04.163] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:46:07.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 00:46:07.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 00:46:25.120] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:46:32.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [With Fire It Writes]
+[04Mar2025 00:46:43.644] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9503de92-046c-4d61-8afe-8c0d71c6afae)
+[04Mar2025 00:46:47.331] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 00:47:19.419] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:47:28.683] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 00:48:33.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: avochvh moved too quickly! 0.0,10.517138578544316,0.10956623101947116
+[04Mar2025 00:50:21.308] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (ee221b08-fa17-454b-bc21-f31dc1fe9322)
+[04Mar2025 00:51:07.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 00:51:07.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 00:51:20.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/shadowsoffire/apotheosis/adventure/affix/effect/RadialAffix$RadialState
+[04Mar2025 00:51:26.880] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[04Mar2025 00:51:26.880] [Netty Epoll Server IO #0/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d4f664d6-2a9e-4a84-8138-038ceb1ce044)
+[04Mar2025 00:52:30.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was shot by Mutant Skeleton
+[04Mar2025 00:52:31.677] [Server thread/DEBUG] [twilightforest/]: Player SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1) respawned and received items held in storage
+[04Mar2025 00:52:32.030] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:52:44.338] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 00:52:48.264] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:52:54.064] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:52:54.540] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:52:55.014] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:52:57.263] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 00:52:59.660] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:53:00.465] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:53:01.455] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:53:01.715] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:53:02.151] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:53:06.979] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-737, y=82, z=-336}
+[04Mar2025 00:53:37.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was slain by Spider
+[04Mar2025 00:53:39.088] [Server thread/DEBUG] [twilightforest/]: Player SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1) respawned and received items held in storage
+[04Mar2025 00:54:07.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was shot by Mutant Skeleton
+[04Mar2025 00:54:08.559] [Server thread/DEBUG] [twilightforest/]: Player SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1) respawned and received items held in storage
+[04Mar2025 00:54:48.535] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9503de92-046c-4d61-8afe-8c0d71c6afae)
+[04Mar2025 00:54:48.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket was shot by Mutant Skeleton
+[04Mar2025 00:54:49.839] [Server thread/DEBUG] [twilightforest/]: Player SulfurousLocket (ea9b2dca-9878-3234-b6e2-9372d557f0c1) respawned and received items held in storage
+[04Mar2025 00:55:20.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has made the advancement [I Can See Forever]
+[04Mar2025 00:55:43.979] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 00:55:48.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [I Can See Forever]
+[04Mar2025 00:56:07.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 00:56:07.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

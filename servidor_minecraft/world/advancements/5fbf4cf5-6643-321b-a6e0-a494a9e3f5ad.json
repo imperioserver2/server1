@@ -4917,7 +4917,8 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-03-04 00:26:52 +0000",
-      "twilight_oak_stairs": "2025-03-04 00:08:04 +0000"
+      "twilight_oak_stairs": "2025-03-04 00:08:04 +0000",
+      "canopy_log": "2025-03-04 00:49:09 +0000"
     },
     "done": false
   },
@@ -5023,6 +5024,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-03-04 00:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-04 00:00:12 +0000"
@@ -5080,6 +5087,12 @@
   "twilightforest:twilight_hunter": {
     "criteria": {
       "deer": "2025-03-04 00:06:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-03-04 00:55:20 +0000"
     },
     "done": true
   },
@@ -5176,6 +5189,18 @@
   "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
     "criteria": {
       "has_item": "2025-03-04 00:26:52 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-03-04 00:41:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2025-03-04 00:49:09 +0000"
     },
     "done": true
   },
