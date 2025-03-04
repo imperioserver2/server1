@@ -8861,3 +8861,44 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 19:30:53.178] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (61e167a5-175b-4378-9e30-60facec93c97)
 [04Mar2025 19:30:53.178] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
 [04Mar2025 19:30:54.184] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (ee221b08-fa17-454b-bc21-f31dc1fe9322)
+[04Mar2025 19:31:36.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 19:31:36.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 19:31:36.619] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (393e5482-7920-49bd-9055-24999cbf6977)
+[04Mar2025 19:34:22.519] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[04Mar2025 19:34:28.386] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (393e5482-7920-49bd-9055-24999cbf6977)
+[04Mar2025 19:35:37.888] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 19:35:37.889] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 19:35:37.890] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 19:35:41.775] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 19:35:43.561] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 19:35:44.286] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 19:35:53.187] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (72ef1342-bce7-4ff0-a551-33ad7c5a353c)
+[04Mar2025 19:35:54.123] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 19:35:54.135] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_shield)
+[04Mar2025 19:36:00.125] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (393e5482-7920-49bd-9055-24999cbf6977)
+[04Mar2025 19:36:00.126] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (61e167a5-175b-4378-9e30-60facec93c97)
+[04Mar2025 19:36:00.126] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (6bab36f5-72d6-42be-a469-ae5006b2a69c)
+[04Mar2025 19:36:00.126] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9bd8e1e8-52d1-4206-ba22-a0b2a97f2239)
+[04Mar2025 19:36:34.192] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[04Mar2025 19:36:34.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was shot by Pillager
+[04Mar2025 19:36:35.964] [Server thread/DEBUG] [twilightforest/]: Player LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127) respawned and received items held in storage
+[04Mar2025 19:36:36.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 19:36:36.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 19:36:48.741] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[04Mar2025 19:36:48.741] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[04Mar2025 19:36:49.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[04Mar2025 19:36:49.580] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[04Mar2025 19:36:49.583] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[04Mar2025 19:36:53.185] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0})
+[04Mar2025 19:37:25.756] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-5969, y=4, z=-2792}
+[04Mar2025 19:37:28.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.256141419038684,0.0
+[04Mar2025 19:37:29.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.506141419038684,0.0
+[04Mar2025 19:37:29.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.256141419038684,0.0
+[04Mar2025 19:37:29.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.256141419038684,0.0
+[04Mar2025 19:37:29.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.256141419038684,0.0
+[04Mar2025 19:37:29.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.006141419038684,0.0
+[04Mar2025 19:37:57.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Teleported LuxSilver to -5967.500000, 6.500000, -2790.500000]
+[04Mar2025 19:38:30.785] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[04Mar2025 19:38:30.785] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[04Mar2025 19:40:43.563] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[04Mar2025 19:40:44.383] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)

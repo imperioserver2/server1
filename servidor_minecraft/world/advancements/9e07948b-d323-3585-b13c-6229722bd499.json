@@ -2007,6 +2007,7 @@
       "cooked_cod": "2025-03-04 00:35:47 +0000",
       "bread": "2025-03-03 19:43:39 +0000",
       "golden_apple": "2025-03-04 19:25:20 +0000",
+      "rotten_flesh": "2025-03-04 19:29:09 +0000",
       "melon_slice": "2025-03-03 18:32:54 +0000"
     },
     "done": false
@@ -3627,6 +3628,7 @@
       "twilight_oak_sign": "2025-03-04 00:52:12 +0000",
       "canopy_planks": "2025-03-04 00:54:20 +0000",
       "twilight_oak_log": "2025-03-04 00:50:36 +0000",
+      "liveroot": "2025-03-04 19:28:36 +0000",
       "canopy_log": "2025-03-04 00:53:50 +0000"
     },
     "done": false
@@ -3877,6 +3879,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/material/raw_ironwood": {
+    "criteria": {
+      "has_item": "2025-03-04 19:28:36 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-03-04 18:59:37 +0000"
@@ -3922,6 +3930,12 @@
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2025-03-04 19:18:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-03-04 19:28:42 +0000"
     },
     "done": true
   },
@@ -4018,6 +4032,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-03-04 18:59:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-03-04 19:28:43 +0000"
     },
     "done": true
   },

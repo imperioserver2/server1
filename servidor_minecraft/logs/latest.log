@@ -1295,3 +1295,15 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 19:25:43.595] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LuxSilver
 [04Mar2025 19:25:43.609] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
 [04Mar2025 19:28:42.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [The Boots Are Mine!]
+[04Mar2025 19:34:22.519] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[04Mar2025 19:36:34.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was shot by Pillager
+[04Mar2025 19:36:49.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[04Mar2025 19:36:49.580] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[04Mar2025 19:36:49.583] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[04Mar2025 19:37:28.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.256141419038684,0.0
+[04Mar2025 19:37:29.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.506141419038684,0.0
+[04Mar2025 19:37:29.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.256141419038684,0.0
+[04Mar2025 19:37:29.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.256141419038684,0.0
+[04Mar2025 19:37:29.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.256141419038684,0.0
+[04Mar2025 19:37:29.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of LuxSilver) moved too quickly! 0.0,11.006141419038684,0.0
+[04Mar2025 19:37:57.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Teleported LuxSilver to -5967.500000, 6.500000, -2790.500000]
