@@ -2510,6 +2510,7 @@
       "minecraft:spider": "2025-03-03 18:04:08 +0000",
       "minecraft:creeper": "2025-03-03 23:54:15 +0000",
       "minecraft:husk": "2025-03-03 23:52:20 +0000",
+      "minecraft:stray": "2025-03-04 01:21:43 +0000",
       "minecraft:zombie": "2025-03-03 18:54:55 +0000"
     },
     "done": false
@@ -4705,6 +4706,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-03-04 01:19:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/canopy_fence": {
     "criteria": {
       "has_item": "2025-03-04 00:45:14 +0000"
@@ -4714,6 +4721,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-03-04 01:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-04 01:21:56 +0000"
     },
     "done": true
   },
@@ -4738,6 +4751,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_brown_wool": "2025-03-04 00:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-04 01:21:56 +0000"
     },
     "done": true
   },
@@ -5023,6 +5042,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-03-04 01:21:56 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_orange": {
     "criteria": {
       "has_orange_wool": "2025-03-04 00:31:26 +0000"
@@ -5032,6 +5057,12 @@
   "twilightforest:hill1": {
     "criteria": {
       "redcap": "2025-03-04 01:00:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-03-04 01:19:01 +0000"
     },
     "done": true
   },
@@ -5053,6 +5084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-04 01:19:01 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_magenta_wool": "2025-03-04 00:31:23 +0000"
@@ -5068,6 +5105,18 @@
   "twilightforest:twilight_hunter": {
     "criteria": {
       "deer": "2025-03-04 00:05:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-03-04 01:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 01:21:56 +0000"
     },
     "done": true
   },
@@ -5191,6 +5240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 01:21:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-03 23:30:36 +0000"
@@ -5218,6 +5273,12 @@
   "twilightforest:recipes/food/food/campfired_venison": {
     "criteria": {
       "has_food": "2025-03-04 00:05:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-03-04 01:19:01 +0000"
     },
     "done": true
   },
@@ -5263,6 +5324,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 01:19:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
       "has_iron_leggings": "2025-03-04 01:09:21 +0000"
@@ -5272,6 +5339,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 01:21:56 +0000"
     },
     "done": true
   },
@@ -5518,6 +5591,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-03-03 23:41:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-03-04 01:19:01 +0000"
     },
     "done": true
   },
