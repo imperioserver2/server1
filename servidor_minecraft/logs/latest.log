@@ -170,3 +170,5 @@
 [04Mar2025 02:18:31.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5872, y=5, z=-2761} BlockPos{x=-5874, y=5, z=-2761}
 [04Mar2025 02:18:31.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5873, y=5, z=-2760} BlockPos{x=-5872, y=4, z=-2761}
 [04Mar2025 02:23:53.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Disme A Dozen]
+[04Mar2025 02:36:55.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[04Mar2025 02:36:55.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game

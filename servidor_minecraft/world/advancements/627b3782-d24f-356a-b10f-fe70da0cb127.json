@@ -4335,7 +4335,8 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-03-04 02:16:49 +0000",
-      "twilight_oak_log": "2025-03-04 02:16:41 +0000"
+      "twilight_oak_log": "2025-03-04 02:16:41 +0000",
+      "twilight_oak_sapling": "2025-03-04 02:27:19 +0000"
     },
     "done": false
   },
@@ -4390,6 +4391,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-03-04 02:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-04 02:26:36 +0000"
     },
     "done": true
   },
@@ -4558,6 +4565,12 @@
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2025-03-04 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-03-04 02:29:30 +0000"
     },
     "done": true
   },
@@ -4741,6 +4754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-03-04 02:29:30 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_button": {
     "criteria": {
       "has_item": "2025-03-04 02:16:49 +0000"
@@ -4780,6 +4799,12 @@
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2025-03-04 02:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-03-04 02:29:30 +0000"
     },
     "done": true
   },
@@ -4825,9 +4850,21 @@
     },
     "done": true
   },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_lime_wool": "2025-03-04 02:29:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-03-04 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_lime_wool": "2025-03-04 02:29:30 +0000"
     },
     "done": true
   },
