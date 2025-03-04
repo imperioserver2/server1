@@ -1231,3 +1231,36 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Mar2025 03:25:20.407] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [04Mar2025 03:25:20.418] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [04Mar2025 03:27:31.077] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/phys/HitResult$Type
+[04Mar2025 03:31:09.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Teleported LuxSilver to -5953.500000, 11.500000, -2835.500000]
+[04Mar2025 03:32:57.507] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[04Mar2025 03:32:57.508] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[04Mar2025 03:32:57.530] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[04Mar2025 03:32:57.532] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[04Mar2025 03:32:58.515] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id majruszsdifficulty:illusioner
+[04Mar2025 03:32:58.629] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[04Mar2025 03:32:58.689] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[04Mar2025 03:32:58.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Mar2025 03:32:58.900] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/Starbuncle$StarbuncleGoalState
+[04Mar2025 03:33:01.616] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[04Mar2025 03:34:00.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LuxSilver'/1311, l='ServerLevel[world]', x=-738.72, y=83.00, z=-339.64] died: LuxSilver was killed
+[04Mar2025 03:34:00.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/1319, l='ServerLevel[world]', x=-759.51, y=70.00, z=-327.86] died: SulfurousLocket was killed
+[04Mar2025 03:34:00.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/1328, l='ServerLevel[world]', x=-746.48, y=82.00, z=-343.50] died: SulfurousLocket was killed
+[04Mar2025 03:34:00.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/1352, l='ServerLevel[world]', x=-735.87, y=83.00, z=-327.03] died: SulfurousLocket was killed
+[04Mar2025 03:34:00.775] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LuxSilver'/1366, l='ServerLevel[world]', x=-729.50, y=86.00, z=-340.18] died: LuxSilver was killed
+[04Mar2025 03:34:00.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Katze5O5'/1368, l='ServerLevel[world]', x=-739.50, y=85.00, z=-332.96] died: Katze5O5 was killed
+[04Mar2025 03:34:00.778] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/1428, l='ServerLevel[world]', x=-772.50, y=92.00, z=-372.50] died: SulfurousLocket was killed
+[04Mar2025 03:34:00.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['avochvh'/1438, l='ServerLevel[world]', x=-755.47, y=108.00, z=-394.48] died: avochvh was killed
+[04Mar2025 03:34:00.780] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Katze5O5'/1441, l='ServerLevel[world]', x=-723.59, y=85.00, z=-387.51] died: Katze5O5 was killed
+[04Mar2025 03:34:00.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/1448, l='ServerLevel[world]', x=-771.95, y=72.00, z=-315.87] died: SulfurousLocket was killed
+[04Mar2025 03:34:00.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/1568, l='ServerLevel[world]', x=-821.50, y=81.00, z=-358.28] died: SulfurousLocket was killed
+[04Mar2025 03:34:00.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Katze5O5'/1643, l='ServerLevel[world]', x=-747.47, y=77.00, z=-219.52] died: Katze5O5 was killed
+[04Mar2025 03:34:00.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Katze5O5'/1673, l='ServerLevel[world]', x=-612.49, y=70.00, z=-193.45] died: Katze5O5 was killed
+[04Mar2025 03:34:00.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Killed 34 entities]
+[04Mar2025 03:34:08.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was slain by LuxSilver
+[04Mar2025 03:34:12.475] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[04Mar2025 03:34:12.476] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[04Mar2025 03:34:12.488] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[04Mar2025 03:34:31.538] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[04Mar2025 03:34:31.539] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Katze5O5'/2243, l='ServerLevel[world]', x=-728.50, y=86.00, z=-339.70] died: Katze5O5 was slain by LuxSilver
+[04Mar2025 03:35:32.335] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[04Mar2025 03:37:20.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['foxytrapx'/2230, l='ServerLevel[world]', x=-729.30, y=35.04, z=-321.30] died: foxytrapx was slain by Axolotl
