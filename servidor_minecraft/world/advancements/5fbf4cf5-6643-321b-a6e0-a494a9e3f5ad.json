@@ -4890,21 +4890,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/packed_ice_freezing": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_water_bucket": "2025-03-04 00:08:26 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_left": {
-    "criteria": {
-      "has_item": "2025-03-04 01:14:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-03-04 00:08:23 +0000"
+      "has_dandelion": "2025-03-03 23:59:58 +0000"
     },
     "done": true
   },
@@ -4920,71 +4908,15 @@
     },
     "done": true
   },
-  "twilightforest:arborist": {
-    "criteria": {
-      "twilight_oak_planks": "2025-03-04 00:26:52 +0000",
-      "twilight_oak_stairs": "2025-03-04 00:08:04 +0000",
-      "canopy_log": "2025-03-04 00:49:09 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-03-04 01:14:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-03-04 00:00:12 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/magic_map_focus": {
-    "criteria": {
-      "has_berries": "2025-03-04 00:08:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_hoe": "2025-03-04 00:08:32 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
-    "criteria": {
-      "has_item": "2025-03-04 00:26:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-04 00:09:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-03-04 01:23:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-03-04 00:00:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-03-04 01:23:54 +0000"
     },
     "done": true
   },
@@ -5000,93 +4932,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-04 00:09:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-04 01:14:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
-    "criteria": {
-      "has_item": "2025-03-04 00:26:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "kill_naga": "2025-03-04 01:14:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-04 00:09:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:fiery_set": {
-    "criteria": {
-      "fiery_helmet": "2025-03-04 00:59:36 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
-    "criteria": {
-      "has_item": "2025-03-04 00:59:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-04 00:15:54 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-03-04 01:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-03-04 00:00:12 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-03-04 00:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-04 01:14:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "naga": "2025-03-04 01:14:49 +0000"
     },
     "done": true
   },
@@ -5096,51 +4944,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-04 00:09:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
-    "criteria": {
-      "has_item": "2025-03-04 00:59:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-03-04 00:08:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-03-04 00:56:09 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
-    "criteria": {
-      "has_item": "2025-03-04 00:49:09 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_cartography_table": {
-    "criteria": {
-      "has_paper": "2025-03-04 01:21:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-04 00:00:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
-    "criteria": {
-      "has_item": "2025-03-04 00:26:52 +0000"
     },
     "done": true
   },
@@ -5150,45 +4956,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
-    "criteria": {
-      "has_item": "2025-03-04 00:26:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
-    "criteria": {
-      "has_item": "2025-03-04 00:59:45 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:kill_yourself": {
-    "criteria": {
-      "kill_yourself": "2025-03-04 00:02:16 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/book_of_lore": {
-    "criteria": {
-      "has_book": "2025-03-04 01:23:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-03-04 00:10:12 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-03-04 00:00:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-03-04 00:15:54 +0000"
     },
     "done": true
   },
@@ -5198,9 +4968,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
+  "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
-      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
+      "has_diamond": "2025-03-04 00:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-03-04 00:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-03-04 00:00:12 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-03-04 00:02:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-03-04 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-03-04 00:06:17 +0000"
     },
     "done": true
   },
@@ -5210,63 +5010,53 @@
     },
     "done": true
   },
-  "aether:recipes/redstone/skyroot_lectern": {
+  "twilightforest:recipes/food/food/smelted_venison": {
     "criteria": {
-      "has_book": "2025-03-04 01:23:54 +0000"
+      "has_food": "2025-03-04 00:06:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "twilightforest:recipes/food/food/campfired_venison": {
     "criteria": {
-      "has_book": "2025-03-04 01:23:54 +0000"
+      "has_food": "2025-03-04 00:06:56 +0000"
     },
     "done": true
   },
-  "twilightforest:magic_map": {
+  "twilightforest:recipes/food/food/smoked_venison": {
     "criteria": {
-      "magic_map": "2025-03-04 00:55:20 +0000"
+      "has_food": "2025-03-04 00:06:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
+  "twilightforest:arborist": {
     "criteria": {
-      "has_paper": "2025-03-04 01:21:37 +0000"
+      "twilight_oak_planks": "2025-03-04 00:26:52 +0000",
+      "twilight_oak_stairs": "2025-03-04 00:08:04 +0000",
+      "canopy_log": "2025-03-04 00:49:09 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-03-04 00:08:23 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+  "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
-      "has_item": "2025-03-04 00:26:52 +0000"
+      "has_baked_potato": "2025-03-04 00:08:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
-      "has_golden_hoe": "2025-03-04 00:08:32 +0000"
+      "has_water_bucket": "2025-03-04 00:08:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_jukebox": {
-    "criteria": {
-      "has_diamond": "2025-03-04 00:00:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-03-04 00:25:14 +0000"
+      "has_water_bucket": "2025-03-04 00:08:26 +0000"
     },
     "done": true
   },
@@ -5276,39 +5066,135 @@
     },
     "done": true
   },
-  "twilightforest:recipes/food/food/smelted_venison": {
-    "criteria": {
-      "has_food": "2025-03-04 00:06:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-03-04 01:12:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-03-04 01:23:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-03-03 23:59:58 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2025-03-04 00:08:26 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/food/food/campfired_venison": {
+  "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
-      "has_food": "2025-03-04 00:06:56 +0000"
+      "has_berries": "2025-03-04 00:08:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-03-04 00:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-03-04 00:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-03-04 00:08:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2025-03-04 00:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 00:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 00:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 00:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 00:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 00:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 00:09:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-04 00:10:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-03-04 00:14:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 00:15:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-04 00:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-03-04 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-03-04 00:26:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-03-04 00:26:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-03-04 00:26:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-03-04 00:26:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-03-04 00:26:52 +0000"
     },
     "done": true
   },
@@ -5324,54 +5210,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-03-04 00:00:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/skyroot_bookshelf": {
-    "criteria": {
-      "has_book": "2025-03-04 01:23:54 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
-    "criteria": {
-      "has_item": "2025-03-04 01:02:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-04 01:14:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/berry_torch": {
-    "criteria": {
-      "has_item": "2025-03-04 00:08:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-04 00:09:53 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
     "criteria": {
       "has_item": "2025-03-04 00:26:52 +0000"
@@ -5384,9 +5222,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-03-04 00:26:52 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2025-03-04 00:41:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-03-04 00:49:09 +0000"
     },
     "done": true
   },
@@ -5396,21 +5246,39 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "twilightforest:magic_map": {
     "criteria": {
-      "has_baked_potato": "2025-03-04 00:08:23 +0000"
+      "magic_map": "2025-03-04 00:55:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_paper": "2025-03-04 01:21:37 +0000"
+      "has_cornflower": "2025-03-04 00:56:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+  "twilightforest:fiery_set": {
     "criteria": {
-      "has_polished_andesite": "2025-03-04 01:14:53 +0000"
+      "fiery_helmet": "2025-03-04 00:59:36 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2025-03-04 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2025-03-04 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2025-03-04 00:59:45 +0000"
     },
     "done": true
   },
@@ -5420,45 +5288,183 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "lootr:50loot": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-03-04 00:09:53 +0000"
+      "loot_stat": "2025-03-04 01:01:26 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/golden_hoe_repairing": {
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
     "criteria": {
-      "has_golden_hoe": "2025-03-04 00:08:32 +0000"
+      "has_item": "2025-03-04 01:02:17 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/firefly_jar": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
-      "has_item": "2025-03-04 00:06:17 +0000"
+      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
     },
     "done": true
   },
-  "twilightforest:root": {
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
-      "in_tf": "2025-03-04 00:04:49 +0000"
+      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_item": "2025-03-04 00:26:52 +0000"
+      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
-      "has_diamond": "2025-03-04 00:00:12 +0000"
+      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/food/food/smoked_venison": {
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
-      "has_food": "2025-03-04 00:06:56 +0000"
+      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-03-04 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-03-04 01:14:49 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-03-04 01:14:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-03-04 01:14:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-03-04 01:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-04 01:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-04 01:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-04 01:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-04 01:14:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-04 01:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-04 01:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-04 01:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-04 01:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-04 01:23:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-03-04 01:23:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-03-04 01:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 01:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 01:23:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 01:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-03-04 01:27:41 +0000"
     },
     "done": true
   },

@@ -2096,6 +2096,7 @@
       "cooked_mutton": "2025-03-03 22:17:17 +0000",
       "cooked_beef": "2025-03-03 20:26:06 +0000",
       "beef": "2025-03-03 19:14:15 +0000",
+      "baked_potato": "2025-03-04 01:28:22 +0000",
       "tropical_fish": "2025-03-03 19:01:23 +0000",
       "cooked_cod": "2025-03-04 00:24:37 +0000",
       "mutton": "2025-03-03 21:23:55 +0000",
@@ -5039,6 +5040,12 @@
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-04 01:00:12 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-03-04 01:29:14 +0000"
     },
     "done": true
   },

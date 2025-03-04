@@ -88,3 +88,19 @@
 [04Mar2025 01:14:49.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has reached the goal [Time To Even The Scales]
 [04Mar2025 01:14:49.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has reached the goal [Time To Even The Scales]
 [04Mar2025 01:25:04.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has made the advancement [The Silence of the Forest]
+[04Mar2025 01:29:14.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[04Mar2025 01:29:14.275] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['foxytrapx'/142326, l='ServerLevel[world]', x=-6109.22, y=47.00, z=-2839.84] died: foxytrapx was slain by foxytrapx
+[04Mar2025 01:30:41.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: avochvh lost connection: Disconnected
+[04Mar2025 01:30:41.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh left the game
+[04Mar2025 01:30:56.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: avochvh[/127.108.89.128:42661] logged in with entity id 143799 at (-6095.699999988079, 7.0, -2837.218341807342)
+[04Mar2025 01:30:56.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh joined the game
+[04Mar2025 01:30:56.356] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: avochvh
+[04Mar2025 01:30:56.364] [Server thread/INFO] [Jade/]: Syncing config to avochvh (5fbf4cf5-6643-321b-a6e0-a494a9e3f5ad)
+[04Mar2025 01:32:16.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katze5O5 lost connection: Disconnected
+[04Mar2025 01:32:16.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 left the game
+[04Mar2025 01:33:52.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket succumbed to the Lich's explosive magic while escaping Lich Minion
+[04Mar2025 01:33:57.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh fell from a high place
+[04Mar2025 01:34:00.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SulfurousLocket moved too quickly! -5230.007794873697,-77.92159999847412,-2457.2080444550916
+[04Mar2025 01:34:08.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: avochvh moved too quickly! -5229.6894395803465,-77.93050451123717,-2457.7187574094614
+[04Mar2025 01:35:42.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/146835, l='ServerLevel[world]', x=-6098.30, y=67.00, z=-2840.90] died: SulfurousLocket was slain by foxytrapx
+[04Mar2025 01:36:06.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket bled to death
