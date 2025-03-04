@@ -4886,6 +4886,7 @@
       "canopy_planks": "2025-03-04 00:45:14 +0000",
       "twilight_oak_log": "2025-03-04 00:08:21 +0000",
       "twilight_oak_sapling": "2025-03-04 00:08:28 +0000",
+      "liveroot": "2025-03-04 19:25:30 +0000",
       "canopy_log": "2025-03-04 00:45:12 +0000"
     },
     "done": false
@@ -5775,9 +5776,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2025-03-04 19:18:00 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/knightmetal_chestplate": {
     "criteria": {
       "has_item": "2025-03-04 18:56:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/raw_ironwood": {
+    "criteria": {
+      "has_item": "2025-03-04 19:25:30 +0000"
     },
     "done": true
   },
@@ -5787,9 +5800,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2025-03-04 19:18:00 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/mossy_underbrick": {
     "criteria": {
       "has_item": "2025-03-04 18:59:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2025-03-04 19:18:00 +0000"
     },
     "done": true
   },
@@ -5868,6 +5893,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 18:58:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2025-03-04 19:18:00 +0000"
     },
     "done": true
   },
