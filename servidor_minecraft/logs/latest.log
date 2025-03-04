@@ -104,3 +104,22 @@
 [04Mar2025 01:34:08.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: avochvh moved too quickly! -5229.6894395803465,-77.93050451123717,-2457.7187574094614
 [04Mar2025 01:35:42.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SulfurousLocket'/146835, l='ServerLevel[world]', x=-6098.30, y=67.00, z=-2840.90] died: SulfurousLocket was slain by foxytrapx
 [04Mar2025 01:36:06.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket bled to death
+[04Mar2025 01:37:19.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has reached the goal [Bring Out Your Dead]
+[04Mar2025 01:37:19.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SulfurousLocket has reached the goal [Bring Out Your Dead]
+[04Mar2025 01:37:19.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh has reached the goal [Bring Out Your Dead]
+[04Mar2025 01:37:22.414] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['foxytrapx'/145117, l='ServerLevel[world]', x=-6098.93, y=66.50, z=-2839.93] died: foxytrapx was slain by avochvh
+[04Mar2025 01:38:24.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Amateur Archaeologist]
+[04Mar2025 01:39:35.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:48853] logged in with entity id 149751 at (-733.3000000119209, 77.0, -319.6763523723705)
+[04Mar2025 01:39:35.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
+[04Mar2025 01:39:35.967] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LuxSilver
+[04Mar2025 01:39:35.976] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
+[04Mar2025 01:40:40.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: avochvh lost connection: Disconnected
+[04Mar2025 01:40:40.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh left the game
+[04Mar2025 01:40:54.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: avochvh[/127.108.89.128:50729] logged in with entity id 150927 at (-6156.695730465551, 7.0, -2848.9197906588292)
+[04Mar2025 01:40:54.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avochvh joined the game
+[04Mar2025 01:40:54.306] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: avochvh
+[04Mar2025 01:40:54.316] [Server thread/INFO] [Jade/]: Syncing config to avochvh (5fbf4cf5-6643-321b-a6e0-a494a9e3f5ad)
+[04Mar2025 01:42:30.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was shot by Mutant Skeleton
+[04Mar2025 01:42:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Close Quarters]
+[04Mar2025 01:44:49.456] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/154207, l='ServerLevel[world]', x=-714.35, y=83.85, z=-383.65] died: Honeyed Archer suffocated in a wall
+[04Mar2025 01:46:35.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Bug Stomper]

@@ -2097,7 +2097,9 @@
       "cooked_beef": "2025-03-03 20:26:06 +0000",
       "beef": "2025-03-03 19:14:15 +0000",
       "baked_potato": "2025-03-04 01:28:22 +0000",
+      "porkchop": "2025-03-04 01:44:27 +0000",
       "tropical_fish": "2025-03-03 19:01:23 +0000",
+      "apple": "2025-03-04 01:36:19 +0000",
       "cooked_cod": "2025-03-04 00:24:37 +0000",
       "mutton": "2025-03-03 21:23:55 +0000",
       "bread": "2025-03-03 21:31:03 +0000",
@@ -4835,9 +4837,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2025-03-04 01:37:19 +0000",
       "kill_naga": "2025-03-04 01:14:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
@@ -4866,6 +4869,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2025-03-04 01:37:33 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-04 01:42:53 +0000"
     },
     "done": true
   },
@@ -5103,6 +5118,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-03-04 01:37:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-03 23:36:20 +0000"
@@ -5144,6 +5165,12 @@
       "has_paper": "2025-03-04 00:45:51 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-03-04 01:37:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
@@ -5439,6 +5466,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-03-04 01:37:19 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-03-03 23:41:49 +0000"
@@ -5484,6 +5517,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-03-04 00:45:51 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-03-04 01:38:24 +0000"
     },
     "done": true
   },

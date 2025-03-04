@@ -4246,7 +4246,43 @@
     },
     "done": true
   },
+  "aether:recipes/incubation/blue_moa_incubation": {
+    "criteria": {
+      "has_blue_moa_egg": "2025-03-03 23:23:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/enchanted_dart_enchanting": {
+    "criteria": {
+      "has_golden_dart": "2025-03-03 23:23:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart": {
+    "criteria": {
+      "has_golden_dart": "2025-03-03 23:23:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-03-03 23:24:09 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pendant": "2025-03-03 23:24:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_pendant_from_freezing": {
+    "criteria": {
+      "has_pendant": "2025-03-03 23:24:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_pendant": "2025-03-03 23:24:33 +0000"
     },
@@ -4258,45 +4294,27 @@
     },
     "done": true
   },
-  "aether:recipes/misc/enchanted_dart_enchanting": {
-    "criteria": {
-      "has_golden_dart": "2025-03-03 23:23:55 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/incubation/blue_moa_incubation": {
-    "criteria": {
-      "has_blue_moa_egg": "2025-03-03 23:23:04 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/ice_pendant_from_freezing": {
-    "criteria": {
-      "has_pendant": "2025-03-03 23:24:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-03-03 23:37:04 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/zanite_ring_repairing": {
+  "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
-      "has_zanite_ring": "2025-03-03 23:24:09 +0000"
+      "has_apple": "2025-03-04 01:45:07 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/poison_dart": {
+  "brewinandchewin:recipes/cooking/apple_jelly": {
     "criteria": {
-      "has_golden_dart": "2025-03-03 23:23:55 +0000"
+      "has_apple": "2025-03-04 01:45:07 +0000"
     },
     "done": true
   },
-  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+  "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
-      "has_golden_pendant": "2025-03-03 23:24:33 +0000"
+      "has_log": "2025-03-04 01:45:27 +0000"
     },
     "done": true
   },

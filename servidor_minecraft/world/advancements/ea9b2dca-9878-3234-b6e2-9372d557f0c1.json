@@ -3042,18 +3042,21 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-04 01:42:13 +0000",
       "beef": "2025-03-03 18:39:42 +0000",
       "baked_potato": "2025-03-04 01:05:59 +0000",
       "porkchop": "2025-03-03 20:43:03 +0000",
       "tropical_fish": "2025-03-03 18:03:08 +0000",
       "apple": "2025-03-03 19:12:46 +0000",
       "potato": "2025-03-03 20:37:00 +0000",
+      "cooked_cod": "2025-03-04 01:45:39 +0000",
       "mutton": "2025-03-03 17:58:32 +0000",
       "bread": "2025-03-03 19:40:55 +0000",
       "rotten_flesh": "2025-03-04 00:24:30 +0000",
       "glow_berries": "2025-03-03 17:57:12 +0000",
       "melon_slice": "2025-03-03 18:01:30 +0000",
-      "cooked_chicken": "2025-03-04 00:27:32 +0000"
+      "cooked_chicken": "2025-03-04 00:27:32 +0000",
+      "carrot": "2025-03-04 01:45:46 +0000"
     },
     "done": false
   },
@@ -4914,6 +4917,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-04 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-04 01:44:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-04 01:05:57 +0000"
@@ -4994,6 +5009,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 01:45:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-03-04 00:43:34 +0000"
@@ -5030,9 +5051,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-03-04 01:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-04 01:17:43 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-03-04 01:44:55 +0000"
     },
     "done": true
   },
@@ -5110,9 +5143,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
-      "kill_naga": "2025-03-04 01:14:49 +0000"
+      "kill_naga": "2025-03-04 01:14:49 +0000",
+      "was_in_fight": "2025-03-04 01:37:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:fiery_set": {
     "criteria": {
@@ -5171,6 +5205,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-03-04 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/sweet_berry_jam": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-04 01:45:31 +0000"
     },
     "done": true
   },
@@ -5264,6 +5304,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-04 01:45:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-04 01:01:48 +0000"
@@ -5318,6 +5364,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-04 01:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-04 01:17:43 +0000"
@@ -5341,6 +5393,12 @@
       "has_diamond": "2025-03-04 01:01:48 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-03-04 01:37:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
@@ -5375,6 +5433,18 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-03-04 01:24:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-03-04 01:37:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-04 01:44:55 +0000"
     },
     "done": true
   },
@@ -5414,6 +5484,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 01:45:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-03-04 01:17:43 +0000"
@@ -5450,6 +5526,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-04 01:38:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_button": {
     "criteria": {
       "has_item": "2025-03-04 00:55:39 +0000"
@@ -5477,6 +5559,12 @@
   "miners_delight:recipes/decorations/copper_pot": {
     "criteria": {
       "has_copper": "2025-03-04 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 01:45:32 +0000"
     },
     "done": true
   },
@@ -5576,6 +5664,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-04 01:45:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-03-04 01:37:19 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/building_blocks/wood/canopy_planks": {
     "criteria": {
       "has_item": "2025-03-04 00:38:47 +0000"
@@ -5645,6 +5745,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-03-04 01:01:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 01:45:32 +0000"
     },
     "done": true
   },
