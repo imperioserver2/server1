@@ -2506,6 +2506,7 @@
       "cooked_mutton": "2025-03-03 20:49:00 +0000",
       "cooked_beef": "2025-03-03 22:53:44 +0000",
       "apple": "2025-03-04 02:01:18 +0000",
+      "spider_eye": "2025-03-04 20:22:57 +0000",
       "bread": "2025-03-03 18:38:58 +0000",
       "cookie": "2025-03-03 20:07:49 +0000",
       "rotten_flesh": "2025-03-03 23:29:20 +0000",
@@ -4383,7 +4384,8 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "torchberries": "2025-03-04 02:02:21 +0000"
+      "torchberries": "2025-03-04 02:02:21 +0000",
+      "cooked_venison": "2025-03-04 20:22:59 +0000"
     },
     "done": false
   },
@@ -5140,6 +5142,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-03-04 20:11:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_1_plus_from_backpack_stack_upgrade_starter_tier": {
     "criteria": {
       "has_backpack_stack_upgrade": "2025-03-04 19:28:34 +0000"
@@ -5170,6 +5178,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-03-04 20:22:42 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
     "criteria": {
       "has_stack_upgrade_starter_tier": "2025-03-04 19:28:34 +0000"
@@ -5182,15 +5196,33 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-04 20:07:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-03-04 19:34:11 +0000"
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-03-04 20:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-03-04 19:49:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-04 20:23:13 +0000"
     },
     "done": true
   },
@@ -5245,6 +5277,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-03-04 19:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-04 20:07:01 +0000"
     },
     "done": true
   },

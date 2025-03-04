@@ -5854,9 +5854,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-03-04 20:22:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/mossy_underbrick": {
     "criteria": {
       "has_item": "2025-03-04 18:59:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-03-04 20:22:03 +0000"
     },
     "done": true
   },
